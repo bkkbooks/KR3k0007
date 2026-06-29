@@ -1,0 +1,549 @@
+canonical_identifier: bkk:krp/KR3k0007/bkk/v1/markers/2
+seq: 2
+markers:
+  front:
+  - {type: variant, offset: 0, length: 2, content: 校補, WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR3k0007_WYG_002-1a, image: WYG0890/WYG0890-0533a.png}
+  - {type: variant, offset: 0, length: 2, content: 校補, krp: 欽定四庫全書}
+  - {type: variant, offset: 6, length: 3, content: 輯本序, WYG: 卷二上平聲支韻至虞韻}
+  - {type: variant, offset: 6, length: 3, content: 輯本序, krp: 卷二上平聲支韻至虞韻}
+  - {type: xml-element, offset: 9, content: '', id: KR3k0007_CHANT_002-bkkxmlele1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3k0007_CHANT_002-1a.1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3k0007_CHANT_002-1a.2}
+  - {type: variant, offset: 11, length: 1, content: 寶, WYG: 寳}
+  - {type: variant, offset: 11, length: 1, content: 寶, krp: 寳}
+  - {type: punctuation, offset: 13, content: 《, id: KR3k0007_CHANT_002-bkkpn1}
+  - {type: variant, offset: 13, length: 0, content: '', WYG: 五支支}
+  - {type: variant, offset: 13, length: 0, content: '', krp: 五支支}
+  - {type: variant, offset: 14, length: 1, content: 纂, WYG: 苑云人姓琅琊姓苑云今琅琊有支氏西域石趙司空支雄傳云}
+  - {type: variant, offset: 14, length: 1, content: 纂, krp: 苑云人姓琅琊姓苑云今琅琊有支氏西域石趙司空支雄傳云}
+  - {type: punctuation, offset: 15, content: 》, id: KR3k0007_CHANT_002-bkkpn2}
+  - {type: punctuation, offset: 15, content: ，, id: KR3k0007_CHANT_002-bkkpn3}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3k0007_CHANT_002-1a.3}
+  - {type: variant, offset: 16, length: 6, content: 佚文存在永樂, WYG: 先月支人也晉有髙僧支遁字道林天竺人随周同姓國也又杜伯曾孫晉}
+  - {type: page-break, offset: 16, content: '', id: KR3k0007_WYG_002-1b, image: WYG0890/WYG0890-0533b.png}
+  - {type: variant, offset: 16, length: 6, content: 佚文存在永樂, krp: 先月支人也晉有髙僧支遁字道林天竺人随周同姓國也又杜伯曾孫晉}
+  - {type: punctuation, offset: 20, content: 《, id: KR3k0007_CHANT_002-bkkpn4}
+  - {type: variant, offset: 23, length: 5, content: 典散附千家, WYG: 夫食采於随邑亦曰随㑹漢有博士随何又有扶風随蕃枝楚大夫枝如子躬之後或}
+  - {type: variant, offset: 23, length: 5, content: 典散附千家, krp: 夫食采於随邑亦曰随㑹漢有博士随何又有扶風随蕃枝楚大夫枝如子躬之後或}
+  - {type: punctuation, offset: 24, content: 》, id: KR3k0007_CHANT_002-bkkpn5}
+  - {type: punctuation, offset: 24, content: ，, id: KR3k0007_CHANT_002-bkkpn6}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3k0007_CHANT_002-1a.4}
+  - {type: punctuation, offset: 26, content: 《, id: KR3k0007_CHANT_002-bkkpn7}
+  - {type: punctuation, offset: 29, content: 》, id: KR3k0007_CHANT_002-bkkpn8}
+  - {type: variant, offset: 29, length: 0, content: '', WYG: 枝如氏案通志謂晉欒枝或秦公孫枝}
+  - {type: variant, offset: 29, length: 0, content: '', krp: 枝如氏案通志謂晉欒枝或秦公孫枝}
+  - {type: variant, offset: 30, length: 5, content: 下宋鄭樵作, WYG: 後以名為}
+  - {type: variant, offset: 30, length: 5, content: 下宋鄭樵作, krp: 後以名為}
+  - {type: punctuation, offset: 31, content: 。, id: KR3k0007_CHANT_002-bkkpn9}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR3k0007_CHANT_002-1a.5}
+  - {type: punctuation, offset: 35, content: 《, id: KR3k0007_CHANT_002-bkkpn10}
+  - {type: variant, offset: 36, length: 6, content: 族略王應麟作, WYG: 者若枝如子躬其後自為枝如氏趙郡邯鄲為郡著}
+  - {type: variant, offset: 36, length: 6, content: 族略王應麟作, krp: 者若枝如子躬其後自為枝如氏趙郡邯鄲為郡著}
+  - {type: punctuation, offset: 38, content: 》, id: KR3k0007_CHANT_002-bkkpn11}
+  - {type: punctuation, offset: 38, content: ，, id: KR3k0007_CHANT_002-bkkpn12}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3k0007_CHANT_002-1a.6}
+  - {type: punctuation, offset: 42, content: 《, id: KR3k0007_CHANT_002-bkkpn13}
+  - {type: variant, offset: 43, length: 105, content: 氏急就章謝枋得作祕笈新書俱引其文又多為永樂大典所遺今採輯諸書依林氏原書例先以當時皇族餘分四聲仍為十卷其非永樂大典而見他書者注明出處唐時氏姓書尚多隋經籍志雖稱鄧氏官譜及族姓昭穆記晉亂已亡自餘亦多遺失而譜系篇所載尚, WYG: 漢}
+  - {type: variant, offset: 43, length: 105, content: 氏急就章謝枋得作祕笈新書俱引其文又多為永樂大典所遺今採輯諸書依林氏原書例先以當時皇族餘分四聲仍為十卷其非永樂大典而見他書者注明出處唐時氏姓書尚多隋經籍志雖稱鄧氏官譜及族姓昭穆記晉亂已亡自餘亦多遺失而譜系篇所載尚, krp: 漢}
+  - {type: punctuation, offset: 47, content: 》, id: KR3k0007_CHANT_002-bkkpn14}
+  - {type: punctuation, offset: 51, content: 《, id: KR3k0007_CHANT_002-bkkpn15}
+  - {type: punctuation, offset: 55, content: 》, id: KR3k0007_CHANT_002-bkkpn16}
+  - {type: punctuation, offset: 55, content: ，, id: KR3k0007_CHANT_002-bkkpn17}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3k0007_CHANT_002-1a.7}
+  - {type: punctuation, offset: 59, content: ，, id: KR3k0007_CHANT_002-bkkpn18}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3k0007_CHANT_002-1a.8}
+  - {type: punctuation, offset: 62, content: 《, id: KR3k0007_CHANT_002-bkkpn19}
+  - {type: punctuation, offset: 66, content: 》, id: KR3k0007_CHANT_002-bkkpn20}
+  - {type: punctuation, offset: 68, content: 。, id: KR3k0007_CHANT_002-bkkpn21}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3k0007_CHANT_002-1a.9}
+  - {type: punctuation, offset: 73, content: ，, id: KR3k0007_CHANT_002-bkkpn22}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3k0007_CHANT_002-1a.10}
+  - {type: punctuation, offset: 79, content: ，, id: KR3k0007_CHANT_002-bkkpn23}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3k0007_CHANT_002-1a.11}
+  - {type: punctuation, offset: 85, content: ，, id: KR3k0007_CHANT_002-bkkpn24}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3k0007_CHANT_002-1a.12}
+  - {type: punctuation, offset: 89, content: ，, id: KR3k0007_CHANT_002-bkkpn25}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3k0007_CHANT_002-1a.13}
+  - {type: punctuation, offset: 93, content: ，, id: KR3k0007_CHANT_002-bkkpn26}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR3k0007_CHANT_002-1a.14}
+  - {type: punctuation, offset: 95, content: 《, id: KR3k0007_CHANT_002-bkkpn27}
+  - {type: punctuation, offset: 99, content: 》, id: KR3k0007_CHANT_002-bkkpn28}
+  - {type: punctuation, offset: 104, content: ，, id: KR3k0007_CHANT_002-bkkpn29}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3k0007_CHANT_002-1a.15}
+  - {type: punctuation, offset: 108, content: 。, id: KR3k0007_CHANT_002-bkkpn30}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3k0007_CHANT_002-1a.16}
+  - {type: punctuation, offset: 115, content: ，, id: KR3k0007_CHANT_002-bkkpn31}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3k0007_CHANT_002-1a.17}
+  - {type: punctuation, offset: 116, content: 《, id: KR3k0007_CHANT_002-bkkpn32}
+  - {type: punctuation, offset: 119, content: 》, id: KR3k0007_CHANT_002-bkkpn33}
+  - {type: punctuation, offset: 121, content: 《, id: KR3k0007_CHANT_002-bkkpn34}
+  - {type: punctuation, offset: 125, content: 》, id: KR3k0007_CHANT_002-bkkpn35}
+  - {type: punctuation, offset: 126, content: 《, id: KR3k0007_CHANT_002-bkkpn36}
+  - {type: punctuation, offset: 131, content: 》, id: KR3k0007_CHANT_002-bkkpn37}
+  - {type: punctuation, offset: 135, content: ，, id: KR3k0007_CHANT_002-bkkpn38}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3k0007_CHANT_002-1a.18}
+  - {type: punctuation, offset: 141, content: ，, id: KR3k0007_CHANT_002-bkkpn39}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3k0007_CHANT_002-1a.19}
+  - {type: variant, offset: 149, length: 1, content: 四, WYG: 符節令宏字盂}
+  - {type: variant, offset: 149, length: 1, content: 四, krp: 符節令宏字盂}
+  - {type: variant, offset: 152, length: 6, content: 部三百六十卷, WYG: 代孫固邁生逸燕易州刺史昌黎公生鎮後魏為七兵尚書曾孫爕生仲讓北齊國子祭酒仲讓生彦通滑州别駕義安後魏有枝雅濮陽}
+  - {type: page-break, offset: 152, content: '', id: KR3k0007_WYG_002-2a, image: WYG0890/WYG0890-0534a.png}
+  - {type: variant, offset: 152, length: 6, content: 部三百六十卷, krp: 代孫固邁生逸燕易州刺史昌黎公生鎮後魏為七兵尚書曾孫爕生仲讓北齊國子祭酒仲讓生彦通滑州别駕義安後魏有枝雅濮陽}
+  - {type: punctuation, offset: 153, content: 、, id: KR3k0007_CHANT_002-bkkpn40}
+  - {type: punctuation, offset: 158, content: 。, id: KR3k0007_CHANT_002-bkkpn41}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3k0007_CHANT_002-1a.20}
+  - {type: variant, offset: 159, length: 2, content: 顯慶, WYG: 考功郎}
+  - {type: variant, offset: 159, length: 2, content: 顯慶, krp: 考功郎}
+  - {type: variant, offset: 162, length: 65, content: 詔呂才等撰姓氏錄開元中柳沖又改修其書天寶中李林甫亦撰天下郡望姓氏族譜林氏作書時當得見之其體例亦如元和郡縣志不載出典惟僻姓一二引姓苑, WYG: 枝逸文馬邑後魏有枝夸皮}
+  - {type: variant, offset: 162, length: 65, content: 詔呂才等撰姓氏錄開元中柳沖又改修其書天寶中李林甫亦撰天下郡望姓氏族譜林氏作書時當得見之其體例亦如元和郡縣志不載出典惟僻姓一二引姓苑, krp: 枝逸文馬邑後魏有枝夸皮}
+  - {type: substitution, offset: 169, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 170, content: ，, id: KR3k0007_CHANT_002-bkkpn42}
+  - {type: 'tls:seg', offset: 170, content: '', id: KR3k0007_CHANT_002-1a.21}
+  - {type: punctuation, offset: 180, content: ，, id: KR3k0007_CHANT_002-bkkpn43}
+  - {type: 'tls:seg', offset: 180, content: '', id: KR3k0007_CHANT_002-1a.22}
+  - {type: punctuation, offset: 188, content: 《, id: KR3k0007_CHANT_002-bkkpn44}
+  - {type: punctuation, offset: 196, content: 》, id: KR3k0007_CHANT_002-bkkpn45}
+  - {type: punctuation, offset: 196, content: 。, id: KR3k0007_CHANT_002-bkkpn46}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR3k0007_CHANT_002-1a.23}
+  - {type: punctuation, offset: 201, content: ，, id: KR3k0007_CHANT_002-bkkpn47}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3k0007_CHANT_002-1a.24}
+  - {type: punctuation, offset: 205, content: 。, id: KR3k0007_CHANT_002-bkkpn48}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR3k0007_CHANT_002-1a.25}
+  - {type: punctuation, offset: 215, content: ，, id: KR3k0007_CHANT_002-bkkpn49}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR3k0007_CHANT_002-1a.26}
+  - {type: punctuation, offset: 219, content: 。, id: KR3k0007_CHANT_002-bkkpn50}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3k0007_CHANT_002-1a.27}
+  - {type: punctuation, offset: 224, content: ，, id: KR3k0007_CHANT_002-bkkpn51}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3k0007_CHANT_002-1a.28}
+  - {type: punctuation, offset: 225, content: 《, id: KR3k0007_CHANT_002-bkkpn52}
+  - {type: punctuation, offset: 227, content: 》, id: KR3k0007_CHANT_002-bkkpn53}
+  - {type: punctuation, offset: 227, content: 、, id: KR3k0007_CHANT_002-bkkpn54}
+  - {type: punctuation, offset: 227, content: 《, id: KR3k0007_CHANT_002-bkkpn55}
+  - {type: punctuation, offset: 230, content: 》, id: KR3k0007_CHANT_002-bkkpn56}
+  - {type: variant, offset: 230, length: 0, content: '', WYG: 卿士樊仲皮之後皮氏漢有諫議大夫皮究下邳後漢上計掾秦嘉集叙皮仲固撰晉有尚書郎皮諶宋武康令皮􅂒年並下邳人王僧孺百家譜云茍昭娶下邳皮仁之女後魏有皮豹子隋書旭州刺史皮子信今大理司直遐叔南昌人媯音規世本帝舜之後舜生溈汭子孫氏焉漢有媯皓後改為姚氏文士傳有媯覽竒見姓苑云伯竒之後以王父字為氏一曰魯昭公子竒之後漢書南郡太守竒昆河南後魏官氏志竒斤氏改為竒羲羲和堯掌天地之官子孫氏焉戲伏羲之後子孫氏焉儀衞大夫儀封人見論語大夫儀楚西河漢有儀長孺驪左傳驪戎國之後在應昭縣案應昭唐志作昭應古新豐縣唐改名昭應宋大中祥符中改臨潼縣東有驪戎故城卑卑耳國人之後或云鮮卑衆類漢有北平太守卑躬河間人雁門後漢太尉掾卑釐又魏志公孫度將有卑術訾風俗通帝嚳妃訾娵氏女姓苑云今齊人漢書漢功臣表有樓虚侯訾順斯姓苑云呉人呉志郯縣吏斯從也東陽南齊書東陽郡有斯氏彌史記衞公孫彌子瑕以王父字為氏三輔决録云王莽時彌強新豐漢末新豐人中叔見决録猗音伊史記猗頓魯國富人河東猗氏猗頓自魯居之馳見姓苑馳湛馳竈宣城姓苑云今宣城有馳氏池以所居為姓漢有中牟令池瑗魏有城門侯池仲魚眭趙大夫食采眭邑因以為氏按眭宏見漢書眭固見魏志睦夸見北史蕃音皮其先出自魯大夫食邑於蕃因以為氏後漢黨錮傳有蕃嚮按廣韻蕃無皮音惟集韻音皮考左傳疏引魯國地理志曰番讀如藩屏之藩言魯國南藩也汝南陳子㳺為魯相子㳺者藩之子也國人避諱遂改皮音又白褒魯國記同今附入支韻彌且後秦冠軍大將軍彌且婆獨遼東侯彌且髙地立節將軍彌且成後魏末都督彌且元進夏州酋望也唐右領軍將軍延州刺史戲陽英賢傳曰秦穆公時有戲陽伯樂善相馬漢有侍御史戲陽放差師世本魏公族有差師氏六脂伊帝堯伊祁氏之允裔孫伊尹名摯相湯生陟奮風俗通漢有議郎伊推又伊喜嘉為雁門都尉石顯黨也山陽蜀志伊籍山陽人今右僕射安廣節度伊慎廣州人河南官氏志伊婁氏改為伊氏後魏有伊婁馛代人郗出自己姓青陽氏之後蘇忿支孫封郗邑因氏焉趙有郗疵髙平金鄉秦末郗氏自晉陽徙髙平蜀有郗正偃師人漢魏之際司徒郗慮慮元孫晉太宰南千宫鑒生超超生愔鑒五代孫曄女為梁武皇后唐庶子昂盖其後也生士羙澤潞節度也祁帝堯伊祁氏之後左傳晉大夫祁奚生午午生盈生勝姓苑云今扶風有此姓唐刑部員外郎祁順樂陵祁順之後居滄州師風俗通師樂人瞽者稱晉有師曠魯有師乙晉師悝師觸師蠲琅邪東武漢丞相髙樂侯師丹後漢師宜官案師宜官别為師宜氏工書晉石勒為師歡奴按晉書載記師懽茌平人歡作懽資黄帝之後食采益州資中因以為氏陳留風俗通資成陳留人飢左傳殷人七族有飢氏按左傳飢氏作饑尸漢書尸佼晉人為商君師著尸子風俗通云其先封於尸鄉故為尸氏齊相有尸臣按廣韻注晉人作秦人嫘出自西陵氏女嫘祖為黄帝妃後世以嫘為氏刕蜀有刁逹之後避難改焉按廣韻注作刀逵非刁逹麋楚大夫受封南郡麋亭因以為姓東海朐山漢有麋敬蜀志有麋竺生芳案蜀志作竺弟芳宋有麋朂之又麋信撰説要注榖梁案麋信之麋一作糜邳左傳晉大夫邳鄭邳豹案左傳邳鄭丕豹俱不从邑信都風俗通云奚仲為夏車正自薛封邳其後為氏後漢二十八將有衞尉信都邳彤㔻左傳魯桓公㔻之後以王父名為姓其後有㔻無還案魯桓公名允此作㔻悞且亦不得為㔻氏所自出通志}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-2b, image: WYG0890/WYG0890-0534b.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-3a, image: WYG0890/WYG0890-0534c.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-3b, image: WYG0890/WYG0890-0534d.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-4a, image: WYG0890/WYG0890-0535a.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-4b, image: WYG0890/WYG0890-0535b.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-5a, image: WYG0890/WYG0890-0535c.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-5b, image: WYG0890/WYG0890-0535d.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-6a, image: WYG0890/WYG0890-0536a.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-6b, image: WYG0890/WYG0890-0536b.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-7a, image: WYG0890/WYG0890-0536c.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-7b, image: WYG0890/WYG0890-0536d.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-8a, image: WYG0890/WYG0890-0537a.png}
+  - {type: page-break, offset: 230, content: '', id: KR3k0007_WYG_002-8b, image: WYG0890/WYG0890-0537b.png}
+  - {type: variant, offset: 230, length: 0, content: '', krp: 卿士樊仲皮之後皮氏漢有諫議大夫皮究下邳後漢上計掾秦嘉集叙皮仲固撰晉有尚書郎皮諶宋武康令皮􅂒年並下邳人王僧孺百家譜云茍昭娶下邳皮仁之女後魏有皮豹子隋書旭州刺史皮子信今大理司直遐叔南昌人媯音規世本帝舜之後舜生溈汭子孫氏焉漢有媯皓後改為姚氏文士傳有媯覽竒見姓苑云伯竒之後以王父字為氏一曰魯昭公子竒之後漢書南郡太守竒昆河南後魏官氏志竒斤氏改為竒羲羲和堯掌天地之官子孫氏焉戲伏羲之後子孫氏焉儀衞大夫儀封人見論語大夫儀楚西河漢有儀長孺驪左傳驪戎國之後在應昭縣案應昭唐志作昭應古新豐縣唐改名昭應宋大中祥符中改臨潼縣東有驪戎故城卑卑耳國人之後或云鮮卑衆類漢有北平太守卑躬河間人雁門後漢太尉掾卑釐又魏志公孫度將有卑術訾風俗通帝嚳妃訾娵氏女姓苑云今齊人漢書漢功臣表有樓虚侯訾順斯姓苑云呉人呉志郯縣吏斯從也東陽南齊書東陽郡有斯氏彌史記衞公孫彌子瑕以王父字為氏三輔决録云王莽時彌強新豐漢末新豐人中叔見决録猗音伊史記猗頓魯國富人河東猗氏猗頓自魯居之馳見姓苑馳湛馳竈宣城姓苑云今宣城有馳氏池以所居為姓漢有中牟令池瑗魏有城門侯池仲魚眭趙大夫食采眭邑因以為氏按眭宏見漢書眭固見魏志睦夸見北史蕃音皮其先出自魯大夫食邑於蕃因以為氏後漢黨錮傳有蕃嚮按廣韻蕃無皮音惟集韻音皮考左傳疏引魯國地理志曰番讀如藩屏之藩言魯國南藩也汝南陳子㳺為魯相子㳺者藩之子也國人避諱遂改皮音又白褒魯國記同今附入支韻彌且後秦冠軍大將軍彌且婆獨遼東侯彌且髙地立節將軍彌且成後魏末都督彌且元進夏州酋望也唐右領軍將軍延州刺史戲陽英賢傳曰秦穆公時有戲陽伯樂善相馬漢有侍御史戲陽放差師世本魏公族有差師氏六脂伊帝堯伊祁氏之允裔孫伊尹名摯相湯生陟奮風俗通漢有議郎伊推又伊喜嘉為雁門都尉石顯黨也山陽蜀志伊籍山陽人今右僕射安廣節度伊慎廣州人河南官氏志伊婁氏改為伊氏後魏有伊婁馛代人郗出自己姓青陽氏之後蘇忿支孫封郗邑因氏焉趙有郗疵髙平金鄉秦末郗氏自晉陽徙髙平蜀有郗正偃師人漢魏之際司徒郗慮慮元孫晉太宰南千宫鑒生超超生愔鑒五代孫曄女為梁武皇后唐庶子昂盖其後也生士羙澤潞節度也祁帝堯伊祁氏之後左傳晉大夫祁奚生午午生盈生勝姓苑云今扶風有此姓唐刑部員外郎祁順樂陵祁順之後居滄州師風俗通師樂人瞽者稱晉有師曠魯有師乙晉師悝師觸師蠲琅邪東武漢丞相髙樂侯師丹後漢師宜官案師宜官别為師宜氏工書晉石勒為師歡奴按晉書載記師懽茌平人歡作懽資黄帝之後食采益州資中因以為氏陳留風俗通資成陳留人飢左傳殷人七族有飢氏按左傳飢氏作饑尸漢書尸佼晉人為商君師著尸子風俗通云其先封於尸鄉故為尸氏齊相有尸臣按廣韻注晉人作秦人嫘出自西陵氏女嫘祖為黄帝妃後世以嫘為氏刕蜀有刁逹之後避難改焉按廣韻注作刀逵非刁逹麋楚大夫受封南郡麋亭因以為姓東海朐山漢有麋敬蜀志有麋竺生芳案蜀志作竺弟芳宋有麋朂之又麋信撰説要注榖梁案麋信之麋一作糜邳左傳晉大夫邳鄭邳豹案左傳邳鄭丕豹俱不从邑信都風俗通云奚仲為夏車正自薛封邳其後為氏後漢二十八將有衞尉信都邳彤㔻左傳魯桓公㔻之後以王父名為姓其後有㔻無還案魯桓公名允此作㔻悞且亦不得為㔻氏所自出通志}
+  - {type: punctuation, offset: 231, content: 《, id: KR3k0007_CHANT_002-bkkpn57}
+  - {type: variant, offset: 231, length: 29, content: 新說閒引當時家狀耳其書宋時尚存據書錄解題云在莆田以數本參校, WYG: 急就萹俱作晉大夫㔻鄭父子豹之}
+  - {type: variant, offset: 231, length: 29, content: 新說閒引當時家狀耳其書宋時尚存據書錄解題云在莆田以數本參校, krp: 急就萹俱作晉大夫㔻鄭父子豹之}
+  - {type: punctuation, offset: 233, content: 》, id: KR3k0007_CHANT_002-bkkpn58}
+  - {type: punctuation, offset: 233, content: ；, id: KR3k0007_CHANT_002-bkkpn59}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3k0007_CHANT_002-1a.29}
+  - {type: punctuation, offset: 240, content: 。, id: KR3k0007_CHANT_002-bkkpn60}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR3k0007_CHANT_002-1a.30}
+  - {type: punctuation, offset: 246, content: ，, id: KR3k0007_CHANT_002-bkkpn61}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3k0007_CHANT_002-1a.31}
+  - {type: substitution, offset: 248, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 252, content: ，, id: KR3k0007_CHANT_002-bkkpn62}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR3k0007_CHANT_002-1a.32}
+  - {type: punctuation, offset: 260, content: ，, id: KR3k0007_CHANT_002-bkkpn63}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3k0007_CHANT_002-1a.33}
+  - {type: variant, offset: 261, length: 0, content: '', WYG: 㔻亦作丕}
+  - {type: page-break, offset: 261, content: '', id: KR3k0007_WYG_002-9a, image: WYG0890/WYG0890-0537c.png}
+  - {type: variant, offset: 261, length: 0, content: '', krp: 㔻亦作丕}
+  - {type: variant, offset: 262, length: 47, content: 得蜀本校之互有得失然粗完整是陳振孫見其完書鄭樵謝枋得等亦用之不知亡於何時蓋在元明之閒矣唐會要以, WYG: 徐廣曰桓公名軌伊婁後魏獻帝與隣第六弟為伊婁氏為十}
+  - {type: variant, offset: 262, length: 47, content: 得蜀本校之互有得失然粗完整是陳振孫見其完書鄭樵謝枋得等亦用之不知亡於何時蓋在元明之閒矣唐會要以, krp: 徐廣曰桓公名軌伊婁後魏獻帝與隣第六弟為伊婁氏為十}
+  - {type: punctuation, offset: 267, content: ，, id: KR3k0007_CHANT_002-bkkpn64}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3k0007_CHANT_002-1a.34}
+  - {type: punctuation, offset: 271, content: ，, id: KR3k0007_CHANT_002-bkkpn65}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR3k0007_CHANT_002-1a.35}
+  - {type: punctuation, offset: 275, content: ，, id: KR3k0007_CHANT_002-bkkpn66}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR3k0007_CHANT_002-1a.36}
+  - {type: punctuation, offset: 283, content: 。, id: KR3k0007_CHANT_002-bkkpn67}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3k0007_CHANT_002-1a.37}
+  - {type: punctuation, offset: 285, content: 、, id: KR3k0007_CHANT_002-bkkpn68}
+  - {type: punctuation, offset: 292, content: ，, id: KR3k0007_CHANT_002-bkkpn69}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3k0007_CHANT_002-1a.38}
+  - {type: punctuation, offset: 298, content: ，, id: KR3k0007_CHANT_002-bkkpn70}
+  - {type: 'tls:seg', offset: 298, content: '', id: KR3k0007_CHANT_002-1a.39}
+  - {type: punctuation, offset: 305, content: 。, id: KR3k0007_CHANT_002-bkkpn71}
+  - {type: 'tls:seg', offset: 305, content: '', id: KR3k0007_CHANT_002-1a.40}
+  - {type: variant, offset: 310, length: 5, content: 纂為王涯撰, WYG: ''}
+  - {type: variant, offset: 310, length: 5, content: 纂為王涯撰, krp: ''}
+  - {type: punctuation, offset: 314, content: ，, id: KR3k0007_CHANT_002-bkkpn72}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR3k0007_CHANT_002-1a.41}
+  - {type: variant, offset: 316, length: 32, content: 書有王涯序錄言之涯序稱相國趙國公創立綱紀區分異同以授博聞強識之士, WYG: 官氏焉河南後魏徐州刺史}
+  - {type: variant, offset: 316, length: 32, content: 書有王涯序錄言之涯序稱相國趙國公創立綱紀區分異同以授博聞強識之士, krp: 官氏焉河南後魏徐州刺史}
+  - {type: punctuation, offset: 320, content: 《, id: KR3k0007_CHANT_002-bkkpn73}
+  - {type: substitution, offset: 321, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 322, content: 》, id: KR3k0007_CHANT_002-bkkpn74}
+  - {type: punctuation, offset: 324, content: 。, id: KR3k0007_CHANT_002-bkkpn75}
+  - {type: 'tls:seg', offset: 324, content: '', id: KR3k0007_CHANT_002-1a.42}
+  - {type: punctuation, offset: 336, content: ，, id: KR3k0007_CHANT_002-bkkpn76}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR3k0007_CHANT_002-1a.43}
+  - {type: punctuation, offset: 340, content: ，, id: KR3k0007_CHANT_002-bkkpn77}
+  - {type: 'tls:seg', offset: 340, content: '', id: KR3k0007_CHANT_002-1a.44}
+  - {type: variant, offset: 350, length: 3, content: 林寶案, WYG: 公伊婁信生伊婁公伊婁公生彦恭隋武候大將軍濟陽公生明傑唐鄆州長史九真男生大辯大昌祁夜鄭公子且食采開封因氏焉鄭大夫祁夜狐師子世本鄭有師子僕漢有北平太守師子將師祈左傳楚有師祈犂漢有郎中師祈光師宜後漢有南陽人師宜官夷鼔英賢傳黄帝子夷鼓之後見國語秦大夫有夷鼔德宜夷門史記魏隱士侯嬴為夷門監者因氏焉尸遂姓氏英賢傳云南匈奴尸遂鞮裔孫尸遂降漢以國為氏葵仲蔡叔子葵仲胡之後趙時有葵仲其七之時齊有賢人時子著}
+  - {type: page-break, offset: 350, content: '', id: KR3k0007_WYG_002-9b, image: WYG0890/WYG0890-0537d.png}
+  - {type: page-break, offset: 350, content: '', id: KR3k0007_WYG_002-10a, image: WYG0890/WYG0890-0538a.png}
+  - {type: page-break, offset: 350, content: '', id: KR3k0007_WYG_002-10b, image: WYG0890/WYG0890-0538b.png}
+  - {type: variant, offset: 350, length: 3, content: 林寶案, krp: 公伊婁信生伊婁公伊婁公生彦恭隋武候大將軍濟陽公生明傑唐鄆州長史九真男生大辯大昌祁夜鄭公子且食采開封因氏焉鄭大夫祁夜狐師子世本鄭有師子僕漢有北平太守師子將師祈左傳楚有師祈犂漢有郎中師祈光師宜後漢有南陽人師宜官夷鼔英賢傳黄帝子夷鼓之後見國語秦大夫有夷鼔德宜夷門史記魏隱士侯嬴為夷門監者因氏焉尸遂姓氏英賢傳云南匈奴尸遂鞮裔孫尸遂降漢以國為氏葵仲蔡叔子葵仲胡之後趙時有葵仲其七之時齊有賢人時子著}
+  - {type: punctuation, offset: 352, content: 。, id: KR3k0007_CHANT_002-bkkpn78}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR3k0007_CHANT_002-1a.45}
+  - {type: variant, offset: 354, length: 3, content: 錄解題, WYG: 見孟子新論有時農鉅鹿魏有夀春令時苗後趙有謁者僕射時軌姓苑云並鉅鹿人也陳留唐登州刺史時德叡世居汴州尉氏曾孫元佐潁州刺史怡本姓墨台孤竹君之後因避事改焉後魏有怡寛遼西人生峯後周樂陵公生昂鄀公光清河公旗風俗通楚大夫居旗思城因}
+  - {type: page-break, offset: 354, content: '', id: KR3k0007_WYG_002-11a, image: WYG0890/WYG0890-0538c.png}
+  - {type: variant, offset: 354, length: 3, content: 錄解題, krp: 見孟子新論有時農鉅鹿魏有夀春令時苗後趙有謁者僕射時軌姓苑云並鉅鹿人也陳留唐登州刺史時德叡世居汴州尉氏曾孫元佐潁州刺史怡本姓墨台孤竹君之後因避事改焉後魏有怡寛遼西人生峯後周樂陵公生昂鄀公光清河公旗風俗通楚大夫居旗思城因}
+  - {type: substitution, offset: 354, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: variant, offset: 359, length: 1, content: 宰, WYG: 氏蘄漢有宏農太守蘄良姓苑云蘄春侯之後狸左傳八元季狸之後菑音緇見姓苑北海孔融集菑莊青州人治出何氏纂文要音遲蚩蚩尤之後以國為姓慈髙陽氏才子之後羙其宣慈恵和因以為姓司馬重黎之後唐虞夏商代掌天地周宣王時裔孫程伯休父為司馬克平徐方錫以官在趙者曰凱以傳劔知名蒯瞶其後也在秦者司馬錯元孫昌生懌懌生善案史記太史公自序及漢書本傳俱作昌生毋懌毋懌生喜此悞善生談太史公生遷漢中書令河内溫縣蒯瞶元孫卭為趙將封武信君案司馬卭為趙武臣將武臣封武信君此作卭封武信君悞項羽封卭為殷王漢以其地為河内郡子孫家焉孫楷漢武都太守孫鈞後漢征西將軍曾孫防京兆尹生郎懿孚馗七代孫楚之後魏封琅邪王馗六代孫叔璠後魏冠軍將軍汝南王亮五代孫景之後魏蒼梧公琅邪冠軍蒼梧號三祖司馬氏琅邪王楚之即彭城王懽六代孫也楚之曾孫裔裔曾孫元祚唐庫部郎中生希奭希象希奭明堂尉生鍠銓鈇鍠吏部黄門中書三侍郎京兆尹生蒼錘益錘魏郡太守銓庫部郎中生望希象生爵郎中元祚再從子承禎字子益天台道士有髙行元祚四從子仁節大理評事生晧曜曜曹州刺史蒼梧公景之七代孫思溫唐左衞長史冠軍房子孫無聞亮生南頓王宋過江今號江南司馬氏宗八代孫宅}
+  - {type: page-break, offset: 359, content: '', id: KR3k0007_WYG_002-11b, image: WYG0890/WYG0890-0538d.png}
+  - {type: page-break, offset: 359, content: '', id: KR3k0007_WYG_002-12a, image: WYG0890/WYG0890-0539a.png}
+  - {type: page-break, offset: 359, content: '', id: KR3k0007_WYG_002-12b, image: WYG0890/WYG0890-0539b.png}
+  - {type: page-break, offset: 359, content: '', id: KR3k0007_WYG_002-13a, image: WYG0890/WYG0890-0539c.png}
+  - {type: variant, offset: 359, length: 1, content: 宰, krp: 氏蘄漢有宏農太守蘄良姓苑云蘄春侯之後狸左傳八元季狸之後菑音緇見姓苑北海孔融集菑莊青州人治出何氏纂文要音遲蚩蚩尤之後以國為姓慈髙陽氏才子之後羙其宣慈恵和因以為姓司馬重黎之後唐虞夏商代掌天地周宣王時裔孫程伯休父為司馬克平徐方錫以官在趙者曰凱以傳劔知名蒯瞶其後也在秦者司馬錯元孫昌生懌懌生善案史記太史公自序及漢書本傳俱作昌生毋懌毋懌生喜此悞善生談太史公生遷漢中書令河内溫縣蒯瞶元孫卭為趙將封武信君案司馬卭為趙武臣將武臣封武信君此作卭封武信君悞項羽封卭為殷王漢以其地為河内郡子孫家焉孫楷漢武都太守孫鈞後漢征西將軍曾孫防京兆尹生郎懿孚馗七代孫楚之後魏封琅邪王馗六代孫叔璠後魏冠軍將軍汝南王亮五代孫景之後魏蒼梧公琅邪冠軍蒼梧號三祖司馬氏琅邪王楚之即彭城王懽六代孫也楚之曾孫裔裔曾孫元祚唐庫部郎中生希奭希象希奭明堂尉生鍠銓鈇鍠吏部黄門中書三侍郎京兆尹生蒼錘益錘魏郡太守銓庫部郎中生望希象生爵郎中元祚再從子承禎字子益天台道士有髙行元祚四從子仁節大理評事生晧曜曜曹州刺史蒼梧公景之七代孫思溫唐左衞長史冠軍房子孫無聞亮生南頓王宋過江今號江南司馬氏宗八代孫宅}
+  - {type: variant, offset: 361, length: 3, content: 李吉甫, WYG: 太子洗馬生遜晉譙剛王七代孫筠賢筠梁尚書左丞賢孫待微唐撫州刺史兄子利賔雲中北齊司空司馬子如稱晉南陽王模七代孫也兄子瑞吏部尚書㓜之大理卿瑞生同㳺侍中又刑部侍郎司馬逸客稱琅邪王馗後魏都官員外郎喬鄉鄠縣人也司徒帝王世記曰舜為堯司徒支孫氏焉衞文公生公子其許之後案衞有司徒暪成此公子其許未詳為司徒氏宋邉卭為其司徒後氏焉陳成公子亦司徒氏漢有安平相司徒肅中謁者司徒發禹為堯司徒支孫氏焉帝堯後有隰叔按此下疑有脱悞孫司徒發仕為晉司徒因氏焉晉大夫號司徒季子京兆上元潤州刺史司徒襲或云河内人署虞部郎中孫圖司城世本云宋戴公生東鄉克孫樂喜為司城氏陳哀公子邾勝之後亦為司城氏司㓂世本云衞靈公子郢子孫為司冦亥之後風俗通蘇忿生為司冦其後氏焉禮記恵子魯大夫司功世本晉大夫司功景子其先士匄也因官氏焉周有太史司功騎司揭古今人表有司揭拘又司揭扶楚靈王大夫見韓非子司工周宣王時司工錡因官氏焉綦母左傳晉大夫綦母張風俗通漢有廷尉綦母叅戰國策綦母子與公孫龍爭辯㑹稽後漢綦母俊為會稽主簿因居焉後漢交阯刺史綦母誾與荀爽事陳太邱魏有綦母廣明與管寧為友晉有綦母倪江左有綦母遂為邵陽太守前趙有綦母逹為特進吕都公綦母珍之為中書舍人南康開元右拾遺綦母潜䖍州人又北齊有信州刺史綦母懐文入藝術傳綦連代北人號綦連部因氏焉期引西秦録記乞伏氏與期引氏自漢北出隂山案晉載記乞伏之先與如弗斯出連叱盧三部自漠北出隂山無期引氏又國仁}
+  - {type: page-break, offset: 361, content: '', id: KR3k0007_WYG_002-13b, image: WYG0890/WYG0890-0539d.png}
+  - {type: page-break, offset: 361, content: '', id: KR3k0007_WYG_002-14a, image: WYG0890/WYG0890-0540a.png}
+  - {type: page-break, offset: 361, content: '', id: KR3k0007_WYG_002-14b, image: WYG0890/WYG0890-0540b.png}
+  - {type: page-break, offset: 361, content: '', id: KR3k0007_WYG_002-15a, image: WYG0890/WYG0890-0540c.png}
+  - {type: page-break, offset: 361, content: '', id: KR3k0007_WYG_002-15b, image: WYG0890/WYG0890-0540d.png}
+  - {type: variant, offset: 361, length: 3, content: 李吉甫, krp: 太子洗馬生遜晉譙剛王七代孫筠賢筠梁尚書左丞賢孫待微唐撫州刺史兄子利賔雲中北齊司空司馬子如稱晉南陽王模七代孫也兄子瑞吏部尚書㓜之大理卿瑞生同㳺侍中又刑部侍郎司馬逸客稱琅邪王馗後魏都官員外郎喬鄉鄠縣人也司徒帝王世記曰舜為堯司徒支孫氏焉衞文公生公子其許之後案衞有司徒暪成此公子其許未詳為司徒氏宋邉卭為其司徒後氏焉陳成公子亦司徒氏漢有安平相司徒肅中謁者司徒發禹為堯司徒支孫氏焉帝堯後有隰叔按此下疑有脱悞孫司徒發仕為晉司徒因氏焉晉大夫號司徒季子京兆上元潤州刺史司徒襲或云河内人署虞部郎中孫圖司城世本云宋戴公生東鄉克孫樂喜為司城氏陳哀公子邾勝之後亦為司城氏司㓂世本云衞靈公子郢子孫為司冦亥之後風俗通蘇忿生為司冦其後氏焉禮記恵子魯大夫司功世本晉大夫司功景子其先士匄也因官氏焉周有太史司功騎司揭古今人表有司揭拘又司揭扶楚靈王大夫見韓非子司工周宣王時司工錡因官氏焉綦母左傳晉大夫綦母張風俗通漢有廷尉綦母叅戰國策綦母子與公孫龍爭辯㑹稽後漢綦母俊為會稽主簿因居焉後漢交阯刺史綦母誾與荀爽事陳太邱魏有綦母廣明與管寧為友晉有綦母倪江左有綦母遂為邵陽太守前趙有綦母逹為特進吕都公綦母珍之為中書舍人南康開元右拾遺綦母潜䖍州人又北齊有信州刺史綦母懐文入藝術傳綦連代北人號綦連部因氏焉期引西秦録記乞伏氏與期引氏自漢北出隂山案晉載記乞伏之先與如弗斯出連叱盧三部自漠北出隂山無期引氏又國仁}
+  - {type: variant, offset: 365, length: 2, content: 命寶, WYG: 斯引烏堡為左輔將軍當以斯引為正此期引悞也熙氏英賢傳帝佶使元冥為水正熙氏佐之為氏焉釐子偃姓之後僖公}
+  - {type: page-break, offset: 365, content: '', id: KR3k0007_WYG_002-16a, image: WYG0890/WYG0890-0541a.png}
+  - {type: variant, offset: 365, length: 2, content: 命寶, krp: 斯引烏堡為左輔將軍當以斯引為正此期引悞也熙氏英賢傳帝佶使元冥為水正熙氏佐之為氏焉釐子偃姓之後僖公}
+  - {type: punctuation, offset: 367, content: ，, id: KR3k0007_CHANT_002-bkkpn79}
+  - {type: 'tls:seg', offset: 367, content: '', id: KR3k0007_CHANT_002-1a.46}
+  - {type: variant, offset: 368, length: 3, content: 十旬而, WYG: 年徐滅釐子子孫氏焉茲母左傳齊大夫茲母還漢有侍御史茲母恒八㣲韋顓頊氏之後大彭為夏諸侯彭子受封豕韋周赧王㓕之以國為氏因家彭城至孟又遷魯京兆杜陵孟元孫賢漢丞相扶陽侯徙京兆杜陵生元}
+  - {type: page-break, offset: 368, content: '', id: KR3k0007_WYG_002-16b, image: WYG0890/WYG0890-0541b.png}
+  - {type: variant, offset: 368, length: 3, content: 十旬而, krp: 年徐滅釐子子孫氏焉茲母左傳齊大夫茲母還漢有侍御史茲母恒八㣲韋顓頊氏之後大彭為夏諸侯彭子受封豕韋周赧王㓕之以國為氏因家彭城至孟又遷魯京兆杜陵孟元孫賢漢丞相扶陽侯徙京兆杜陵生元}
+  - {type: variant, offset: 372, length: 9, content: 書則以吉甫本趙郡人, WYG: 七代孫胄魏安城侯生二子潜號西眷穆號東眷西眷潜八代孫周平齊公瑱生師師孫宏敏太府卿平章事從父仁爽鳳州刺史素立主爵員外按}
+  - {type: variant, offset: 372, length: 9, content: 書則以吉甫本趙郡人, krp: 七代孫胄魏安城侯生二子潜號西眷穆號東眷西眷潜八代孫周平齊公瑱生師師孫宏敏太府卿平章事從父仁爽鳳州刺史素立主爵員外按}
+  - {type: punctuation, offset: 373, content: ，, id: KR3k0007_CHANT_002-bkkpn80}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR3k0007_CHANT_002-1a.47}
+  - {type: punctuation, offset: 381, content: ，, id: KR3k0007_CHANT_002-bkkpn81}
+  - {type: 'tls:seg', offset: 381, content: '', id: KR3k0007_CHANT_002-1a.48}
+  - {type: punctuation, offset: 381, content: 《, id: KR3k0007_CHANT_002-bkkpn82}
+  - {type: variant, offset: 382, length: 1, content: 書, WYG: ''}
+  - {type: variant, offset: 382, length: 1, content: 書, krp: ''}
+  - {type: punctuation, offset: 383, content: ·, id: KR3k0007_CHANT_002-bkkpn83}
+  - {type: punctuation, offset: 386, content: 》, id: KR3k0007_CHANT_002-bkkpn84}
+  - {type: variant, offset: 386, length: 36, content: 趙郡李氏定著六房宰相十七人吉甫相憲宗又吉甫本傳元和二年杜黃裳罷相乃擢吉甫, WYG: 宏敏仁爽素立皆兄弟與此不合仁爽兄子容成卭州刺史素立兄孫瑶果州刺史宏敏從祖兄懐質光禄卿懐敬右領將軍生}
+  - {type: variant, offset: 386, length: 36, content: 趙郡李氏定著六房宰相十七人吉甫相憲宗又吉甫本傳元和二年杜黃裳罷相乃擢吉甫, krp: 宏敏仁爽素立皆兄弟與此不合仁爽兄子容成卭州刺史素立兄孫瑶果州刺史宏敏從祖兄懐質光禄卿懐敬右領將軍生}
+  - {type: punctuation, offset: 394, content: ，, id: KR3k0007_CHANT_002-bkkpn85}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR3k0007_CHANT_002-1a.49}
+  - {type: punctuation, offset: 399, content: ，, id: KR3k0007_CHANT_002-bkkpn86}
+  - {type: 'tls:seg', offset: 399, content: '', id: KR3k0007_CHANT_002-1a.50}
+  - {type: punctuation, offset: 404, content: ；, id: KR3k0007_CHANT_002-bkkpn87}
+  - {type: 'tls:seg', offset: 404, content: '', id: KR3k0007_CHANT_002-1a.51}
+  - {type: punctuation, offset: 405, content: 〈, id: KR3k0007_CHANT_002-bkkpn88}
+  - {type: punctuation, offset: 409, content: 〉, id: KR3k0007_CHANT_002-bkkpn89}
+  - {type: punctuation, offset: 409, content: ，, id: KR3k0007_CHANT_002-bkkpn90}
+  - {type: 'tls:seg', offset: 409, content: '', id: KR3k0007_CHANT_002-1a.52}
+  - {type: punctuation, offset: 418, content: ，, id: KR3k0007_CHANT_002-bkkpn91}
+  - {type: 'tls:seg', offset: 418, content: '', id: KR3k0007_CHANT_002-1a.53}
+  - {type: variant, offset: 423, length: 33, content: 平章事故亦得稱趙公也涯序又稱濟南林寶書錄解題以為三原林寶寶傳不見於, WYG: 藝儀州刺}
+  - {type: variant, offset: 423, length: 33, content: 平章事故亦得稱趙公也涯序又稱濟南林寶書錄解題以為三原林寶寶傳不見於, krp: 藝儀州刺}
+  - {type: punctuation, offset: 426, content: ，, id: KR3k0007_CHANT_002-bkkpn92}
+  - {type: 'tls:seg', offset: 426, content: '', id: KR3k0007_CHANT_002-1a.54}
+  - {type: punctuation, offset: 433, content: 。, id: KR3k0007_CHANT_002-bkkpn93}
+  - {type: 'tls:seg', offset: 433, content: '', id: KR3k0007_CHANT_002-1a.55}
+  - {type: punctuation, offset: 441, content: 《, id: KR3k0007_CHANT_002-bkkpn94}
+  - {type: substitution, offset: 442, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 445, content: 》, id: KR3k0007_CHANT_002-bkkpn95}
+  - {type: punctuation, offset: 451, content: ，, id: KR3k0007_CHANT_002-bkkpn96}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR3k0007_CHANT_002-1a.56}
+  - {type: page-break, offset: 456, content: '', id: KR3k0007_WYG_002-17a, image: WYG0890/WYG0890-0541c.png}
+  - {type: punctuation, offset: 457, content: ，, id: KR3k0007_CHANT_002-bkkpn97}
+  - {type: 'tls:seg', offset: 457, content: '', id: KR3k0007_CHANT_002-1a.57}
+  - {type: variant, offset: 457, length: 183, content: 亦未知何以異至郡齋讀書志作十一卷則古人每兼序錄為卷數不足異也姓氏與郡望相屬乃知宗派所出樂史作太平寰宇記載人物著姓於郡縣之下亦有深意三代以上官有世祿各居其國都自漢時徙豪右入關而郡望非其土著晉室板蕩中原大族半皆南渡譜牒亡失北朝以三字二字複姓改為一字或與古姓相亂僅賴魏收官氏志以別之及宋南遷士夫復多喪其譜牒至明太祖不能舉曾高之名其後官無譜局私撰家狀者率皆未見古書不能遠考漢, WYG: 按}
+  - {type: variant, offset: 457, length: 183, content: 亦未知何以異至郡齋讀書志作十一卷則古人每兼序錄為卷數不足異也姓氏與郡望相屬乃知宗派所出樂史作太平寰宇記載人物著姓於郡縣之下亦有深意三代以上官有世祿各居其國都自漢時徙豪右入關而郡望非其土著晉室板蕩中原大族半皆南渡譜牒亡失北朝以三字二字複姓改為一字或與古姓相亂僅賴魏收官氏志以別之及宋南遷士夫復多喪其譜牒至明太祖不能舉曾高之名其後官無譜局私撰家狀者率皆未見古書不能遠考漢, krp: 按}
+  - {type: punctuation, offset: 463, content: 。, id: KR3k0007_CHANT_002-bkkpn98}
+  - {type: 'tls:seg', offset: 463, content: '', id: KR3k0007_CHANT_002-1a.58}
+  - {type: punctuation, offset: 464, content: 《, id: KR3k0007_CHANT_002-bkkpn99}
+  - {type: substitution, offset: 465, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
+  - {type: punctuation, offset: 469, content: 》, id: KR3k0007_CHANT_002-bkkpn100}
+  - {type: punctuation, offset: 473, content: ，, id: KR3k0007_CHANT_002-bkkpn101}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3k0007_CHANT_002-1a.59}
+  - {type: substitution, offset: 479, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 483, content: ，, id: KR3k0007_CHANT_002-bkkpn102}
+  - {type: 'tls:seg', offset: 483, content: '', id: KR3k0007_CHANT_002-1a.60}
+  - {type: punctuation, offset: 487, content: 。, id: KR3k0007_CHANT_002-bkkpn103}
+  - {type: 'tls:seg', offset: 487, content: '', id: KR3k0007_CHANT_002-1a.61}
+  - {type: punctuation, offset: 494, content: ，, id: KR3k0007_CHANT_002-bkkpn104}
+  - {type: 'tls:seg', offset: 494, content: '', id: KR3k0007_CHANT_002-1a.62}
+  - {type: punctuation, offset: 500, content: 。, id: KR3k0007_CHANT_002-bkkpn105}
+  - {type: 'tls:seg', offset: 500, content: '', id: KR3k0007_CHANT_002-1a.63}
+  - {type: punctuation, offset: 503, content: 《, id: KR3k0007_CHANT_002-bkkpn106}
+  - {type: punctuation, offset: 508, content: 》, id: KR3k0007_CHANT_002-bkkpn107}
+  - {type: punctuation, offset: 508, content: ，, id: KR3k0007_CHANT_002-bkkpn108}
+  - {type: 'tls:seg', offset: 508, content: '', id: KR3k0007_CHANT_002-1a.64}
+  - {type: punctuation, offset: 518, content: ，, id: KR3k0007_CHANT_002-bkkpn109}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR3k0007_CHANT_002-1a.65}
+  - {type: punctuation, offset: 522, content: 。, id: KR3k0007_CHANT_002-bkkpn110}
+  - {type: 'tls:seg', offset: 522, content: '', id: KR3k0007_CHANT_002-1a.66}
+  - {type: punctuation, offset: 526, content: ，, id: KR3k0007_CHANT_002-bkkpn111}
+  - {type: 'tls:seg', offset: 526, content: '', id: KR3k0007_CHANT_002-1a.67}
+  - {type: punctuation, offset: 530, content: ，, id: KR3k0007_CHANT_002-bkkpn112}
+  - {type: 'tls:seg', offset: 530, content: '', id: KR3k0007_CHANT_002-1a.68}
+  - {type: punctuation, offset: 535, content: 。, id: KR3k0007_CHANT_002-bkkpn113}
+  - {type: 'tls:seg', offset: 535, content: '', id: KR3k0007_CHANT_002-1a.69}
+  - {type: punctuation, offset: 543, content: ，, id: KR3k0007_CHANT_002-bkkpn114}
+  - {type: 'tls:seg', offset: 543, content: '', id: KR3k0007_CHANT_002-1a.70}
+  - {type: punctuation, offset: 550, content: 。, id: KR3k0007_CHANT_002-bkkpn115}
+  - {type: 'tls:seg', offset: 550, content: '', id: KR3k0007_CHANT_002-1a.71}
+  - {type: punctuation, offset: 554, content: ，, id: KR3k0007_CHANT_002-bkkpn116}
+  - {type: 'tls:seg', offset: 554, content: '', id: KR3k0007_CHANT_002-1a.72}
+  - {type: punctuation, offset: 562, content: ，, id: KR3k0007_CHANT_002-bkkpn117}
+  - {type: 'tls:seg', offset: 562, content: '', id: KR3k0007_CHANT_002-1a.73}
+  - {type: punctuation, offset: 566, content: 。, id: KR3k0007_CHANT_002-bkkpn118}
+  - {type: 'tls:seg', offset: 566, content: '', id: KR3k0007_CHANT_002-1a.74}
+  - {type: punctuation, offset: 571, content: 、, id: KR3k0007_CHANT_002-bkkpn119}
+  - {type: substitution, offset: 573, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3873}}
+  - {type: punctuation, offset: 579, content: ，, id: KR3k0007_CHANT_002-bkkpn120}
+  - {type: 'tls:seg', offset: 579, content: '', id: KR3k0007_CHANT_002-1a.75}
+  - {type: punctuation, offset: 585, content: ，, id: KR3k0007_CHANT_002-bkkpn121}
+  - {type: 'tls:seg', offset: 585, content: '', id: KR3k0007_CHANT_002-1a.76}
+  - {type: punctuation, offset: 589, content: 《, id: KR3k0007_CHANT_002-bkkpn122}
+  - {type: punctuation, offset: 592, content: 》, id: KR3k0007_CHANT_002-bkkpn123}
+  - {type: punctuation, offset: 595, content: 。, id: KR3k0007_CHANT_002-bkkpn124}
+  - {type: 'tls:seg', offset: 595, content: '', id: KR3k0007_CHANT_002-1a.77}
+  - {type: punctuation, offset: 599, content: ，, id: KR3k0007_CHANT_002-bkkpn125}
+  - {type: 'tls:seg', offset: 599, content: '', id: KR3k0007_CHANT_002-1a.78}
+  - {type: punctuation, offset: 607, content: ，, id: KR3k0007_CHANT_002-bkkpn126}
+  - {type: 'tls:seg', offset: 607, content: '', id: KR3k0007_CHANT_002-1a.79}
+  - {type: punctuation, offset: 618, content: 。, id: KR3k0007_CHANT_002-bkkpn127}
+  - {type: 'tls:seg', offset: 618, content: '', id: KR3k0007_CHANT_002-1a.80}
+  - {type: punctuation, offset: 624, content: ，, id: KR3k0007_CHANT_002-bkkpn128}
+  - {type: 'tls:seg', offset: 624, content: '', id: KR3k0007_CHANT_002-1a.81}
+  - {type: punctuation, offset: 635, content: ，, id: KR3k0007_CHANT_002-bkkpn129}
+  - {type: 'tls:seg', offset: 635, content: '', id: KR3k0007_CHANT_002-1a.82}
+  - {type: variant, offset: 642, length: 11, content: 數數典而忘其祖非族而神, WYG: 系表儀州作襄州懐質孫顥隂平太守曾孫漸陵州刺史生宗禮審䂓懐質堂弟匡素和州刺史孫洽考功郎中洽生收瑶再從姪屺宋州刺史瑱三從兄法保周安國公孫繪唐倉部員外保兄子武威邵州刺史東眷穆八代孫旭長子逍遥公夐生康洸恭按恭字下脱頤仁基二人又恭唐世系表作瓘藝冲約康隋吏部尚書生福嗣福奬嗣生悰憬悰御史中丞憬吏部郎中元孫啓肇班啓左補闕生􅒷肇吏部侍郎生綬貫之纒綬左常侍致仕貫之中書舍人按唐書貫之相穆宗纒吏部員外衢州刺史生汭肇三從弟乾度豪州刺史福奬生寡尤洋州刺史寡尤生璋珍璋湖州刺史按唐世系表璋生籝金籝金生黄裳孫黄裳昇州刺史兼中丞採訪使洸隋廣州總管㐮陽公生協協生仲鋭金部郎中鋭孫良嗣案唐世系表仲鋭弟叔鋭生良嗣良嗣生文彦與此}
+  - {type: page-break, offset: 642, content: '', id: KR3k0007_WYG_002-17b, image: WYG0890/WYG0890-0541d.png}
+  - {type: variant, offset: 642, length: 11, content: 數數典而忘其祖非族而神, krp: 系表儀州作襄州懐質孫顥隂平太守曾孫漸陵州刺史生宗禮審䂓懐質堂弟匡素和州刺史孫洽考功郎中洽生收瑶再從姪屺宋州刺史瑱三從兄法保周安國公孫繪唐倉部員外保兄子武威邵州刺史東眷穆八代孫旭長子逍遥公夐生康洸恭按恭字下脱頤仁基二人又恭唐世系表作瓘藝冲約康隋吏部尚書生福嗣福奬嗣生悰憬悰御史中丞憬吏部郎中元孫啓肇班啓左補闕生􅒷肇吏部侍郎生綬貫之纒綬左常侍致仕貫之中書舍人按唐書貫之相穆宗纒吏部員外衢州刺史生汭肇三從弟乾度豪州刺史福奬生寡尤洋州刺史寡尤生璋珍璋湖州刺史按唐世系表璋生籝金籝金生黄裳孫黄裳昇州刺史兼中丞採訪使洸隋廣州總管㐮陽公生協協生仲鋭金部郎中鋭孫良嗣案唐世系表仲鋭弟叔鋭生良嗣良嗣生文彦與此}
+  - {type: punctuation, offset: 643, content: 。, id: KR3k0007_CHANT_002-bkkpn130}
+  - {type: 'tls:seg', offset: 643, content: '', id: KR3k0007_CHANT_002-1a.83}
+  - {type: punctuation, offset: 649, content: ，, id: KR3k0007_CHANT_002-bkkpn131}
+  - {type: 'tls:seg', offset: 649, content: '', id: KR3k0007_CHANT_002-1a.84}
+  - {type: variant, offset: 654, length: 5, content: 歆實搢紳先, WYG: 合給事中}
+  - {type: variant, offset: 654, length: 5, content: 歆實搢紳先, krp: 合給事中}
+  - {type: punctuation, offset: 655, content: ，, id: KR3k0007_CHANT_002-bkkpn132}
+  - {type: 'tls:seg', offset: 655, content: '', id: KR3k0007_CHANT_002-1a.85}
+  - {type: variant, offset: 660, length: 31, content: 之所恥自有此書出而譜牒一家之學不至失守矣永樂大典引此書證之鄧名, WYG: 􅍬給事中京兆少尹知府事恭隋安州總管生萬頃仁基萬頃生元整曹州刺史頤孫晤元户部郎中仁基龍州刺史生元祚哲元祚司門郎中曾孫覇吏部郎中汝州牧祚元孫儹案唐}
+  - {type: page-break, offset: 660, content: '', id: KR3k0007_WYG_002-18a, image: WYG0890/WYG0890-0542a.png}
+  - {type: variant, offset: 660, length: 31, content: 之所恥自有此書出而譜牒一家之學不至失守矣永樂大典引此書證之鄧名, krp: 􅍬給事中京兆少尹知府事恭隋安州總管生萬頃仁基萬頃生元整曹州刺史頤孫晤元户部郎中仁基龍州刺史生元祚哲元祚司門郎中曾孫覇吏部郎中汝州牧祚元孫儹案唐}
+  - {type: punctuation, offset: 663, content: 。, id: KR3k0007_CHANT_002-bkkpn133}
+  - {type: 'tls:seg', offset: 663, content: '', id: KR3k0007_CHANT_002-1a.86}
+  - {type: punctuation, offset: 668, content: ，, id: KR3k0007_CHANT_002-bkkpn134}
+  - {type: 'tls:seg', offset: 668, content: '', id: KR3k0007_CHANT_002-1a.87}
+  - {type: punctuation, offset: 680, content: 。, id: KR3k0007_CHANT_002-bkkpn135}
+  - {type: 'tls:seg', offset: 680, content: '', id: KR3k0007_CHANT_002-1a.88}
+  - {type: punctuation, offset: 680, content: 《, id: KR3k0007_CHANT_002-bkkpn136}
+  - {type: punctuation, offset: 684, content: 》, id: KR3k0007_CHANT_002-bkkpn137}
+  - {type: punctuation, offset: 687, content: ，, id: KR3k0007_CHANT_002-bkkpn138}
+  - {type: 'tls:seg', offset: 687, content: '', id: KR3k0007_CHANT_002-1a.89}
+  - {type: punctuation, offset: 692, content: 《, id: KR3k0007_CHANT_002-bkkpn139}
+  - {type: variant, offset: 692, length: 31, content: 古今姓氏書詳略互見當由輯錄人有所去取且所遺著姓其見於祕笈新書及, WYG: 系表祚元孫儹作五}
+  - {type: variant, offset: 692, length: 31, content: 古今姓氏書詳略互見當由輯錄人有所去取且所遺著姓其見於祕笈新書及, krp: 系表祚元孫儹作五}
+  - {type: punctuation, offset: 697, content: 》, id: KR3k0007_CHANT_002-bkkpn140}
+  - {type: punctuation, offset: 697, content: ，, id: KR3k0007_CHANT_002-bkkpn141}
+  - {type: 'tls:seg', offset: 697, content: '', id: KR3k0007_CHANT_002-1a.90}
+  - {type: punctuation, offset: 701, content: ，, id: KR3k0007_CHANT_002-bkkpn142}
+  - {type: 'tls:seg', offset: 701, content: '', id: KR3k0007_CHANT_002-1a.91}
+  - {type: substitution, offset: 704, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 710, content: 。, id: KR3k0007_CHANT_002-bkkpn143}
+  - {type: 'tls:seg', offset: 710, content: '', id: KR3k0007_CHANT_002-1a.92}
+  - {type: punctuation, offset: 715, content: ，, id: KR3k0007_CHANT_002-bkkpn144}
+  - {type: 'tls:seg', offset: 715, content: '', id: KR3k0007_CHANT_002-1a.93}
+  - {type: punctuation, offset: 718, content: 《, id: KR3k0007_CHANT_002-bkkpn145}
+  - {type: punctuation, offset: 722, content: 》, id: KR3k0007_CHANT_002-bkkpn146}
+  - {type: punctuation, offset: 723, content: 《, id: KR3k0007_CHANT_002-bkkpn147}
+  - {type: variant, offset: 724, length: 9, content: 族略者甚多脫誤亦不, WYG: 孫駕部郎中哲元孫輔元生厚叔案唐世系表輔元作元輔厚叔作原叔藝周齊州刺史魏興懐公生彤彧晏宣敏彤生彦師彦方師撫州牧生承徽忠州刺史彦方生徵同徵生衡衍衢衡原州都督生寂左司郎太府}
+  - {type: variant, offset: 724, length: 9, content: 族略者甚多脫誤亦不, krp: 孫駕部郎中哲元孫輔元生厚叔案唐世系表輔元作元輔厚叔作原叔藝周齊州刺史魏興懐公生彤彧晏宣敏彤生彦師彦方師撫州牧生承徽忠州刺史彦方生徵同徵生衡衍衢衡原州都督生寂左司郎太府}
+  - {type: punctuation, offset: 726, content: 》, id: KR3k0007_CHANT_002-bkkpn148}
+  - {type: punctuation, offset: 729, content: ，, id: KR3k0007_CHANT_002-bkkpn149}
+  - {type: 'tls:seg', offset: 729, content: '', id: KR3k0007_CHANT_002-1a.94}
+  - {type: punctuation, offset: 734, content: ，, id: KR3k0007_CHANT_002-bkkpn150}
+  - {type: 'tls:seg', offset: 734, content: '', id: KR3k0007_CHANT_002-1a.95}
+  - {type: variant, offset: 734, length: 3, content: 如洪姓, WYG: 卿寂生峴㠗案㠗唐世系表作嶼岵嵫衍孫萬案唐世系表衍孫作衍子兼}
+  - {type: variant, offset: 734, length: 3, content: 如洪姓, krp: 卿寂生峴㠗案㠗唐世系表作嶼岵嵫衍孫萬案唐世系表衍孫作衍子兼}
+  - {type: variant, offset: 741, length: 13, content: 洪察闕察字及避孝敬諱訛為避, WYG: 萬生處厚拾遺案唐書處厚相文宗衍少子京富平令衢殿中監閑厩使同宻州刺史生衎右驍衞將軍衎生少華太府卿彧生}
+  - {type: page-break, offset: 741, content: '', id: KR3k0007_WYG_002-18b, image: WYG0890/WYG0890-0542b.png}
+  - {type: variant, offset: 741, length: 13, content: 洪察闕察字及避孝敬諱訛為避, krp: 萬生處厚拾遺案唐書處厚相文宗衍少子京富平令衢殿中監閑厩使同宻州刺史生衎右驍衞將軍衎生少華太府卿彧生}
+  - {type: punctuation, offset: 744, content: 「, id: KR3k0007_CHANT_002-bkkpn151}
+  - {type: punctuation, offset: 745, content: 」, id: KR3k0007_CHANT_002-bkkpn152}
+  - {type: punctuation, offset: 747, content: 「, id: KR3k0007_CHANT_002-bkkpn153}
+  - {type: punctuation, offset: 751, content: 」, id: KR3k0007_CHANT_002-bkkpn154}
+  - {type: punctuation, offset: 753, content: 「, id: KR3k0007_CHANT_002-bkkpn155}
+  - {type: variant, offset: 755, length: 0, content: '', WYG: 方禮部郎中晏孫希仲刑部郎中}
+  - {type: variant, offset: 755, length: 0, content: '', krp: 方禮部郎中晏孫希仲刑部郎中}
+  - {type: variant, offset: 756, length: 10, content: 諱之屬皆據祕笈新書訂, WYG: ''}
+  - {type: variant, offset: 756, length: 10, content: 諱之屬皆據祕笈新書訂, krp: ''}
+  - {type: punctuation, offset: 757, content: 」, id: KR3k0007_CHANT_002-bkkpn156}
+  - {type: punctuation, offset: 759, content: ，, id: KR3k0007_CHANT_002-bkkpn157}
+  - {type: 'tls:seg', offset: 759, content: '', id: KR3k0007_CHANT_002-1a.96}
+  - {type: punctuation, offset: 761, content: 《, id: KR3k0007_CHANT_002-bkkpn158}
+  - {type: punctuation, offset: 765, content: 》, id: KR3k0007_CHANT_002-bkkpn159}
+  - {type: punctuation, offset: 767, content: ，, id: KR3k0007_CHANT_002-bkkpn160}
+  - {type: 'tls:seg', offset: 767, content: '', id: KR3k0007_CHANT_002-1a.97}
+  - {type: variant, offset: 767, length: 1, content: 齊, WYG: 太常卿扶陽公希仲生景先敭先曾先案唐世系表曾先作胄先象先景先湖州刺史􅆒先拾遺曾先殿中侍御史象先生珣將作少監通事舍}
+  - {type: variant, offset: 767, length: 1, content: 齊, krp: 太常卿扶陽公希仲生景先敭先曾先案唐世系表曾先作胄先象先景先湖州刺史敡先拾遺曾先殿中侍御史象先生珣將作少監通事舍}
+  - {type: variant, offset: 769, length: 29, content: 孟軻字子展祕笈新書作子輿亦兩存之此外有宋謝維新合璧事類類姓, WYG: 宣敏生嶠秋官侍郎嶠生友直友諒友清友直司}
+  - {type: variant, offset: 769, length: 29, content: 孟軻字子展祕笈新書作子輿亦兩存之此外有宋謝維新合璧事類類姓, krp: 宣敏生嶠秋官侍郎嶠生友直友諒友清友直司}
+  - {type: punctuation, offset: 774, content: ，, id: KR3k0007_CHANT_002-bkkpn161}
+  - {type: 'tls:seg', offset: 774, content: '', id: KR3k0007_CHANT_002-1a.98}
+  - {type: punctuation, offset: 774, content: 《, id: KR3k0007_CHANT_002-bkkpn162}
+  - {type: punctuation, offset: 778, content: 》, id: KR3k0007_CHANT_002-bkkpn163}
+  - {type: punctuation, offset: 779, content: 「, id: KR3k0007_CHANT_002-bkkpn164}
+  - {type: punctuation, offset: 781, content: 」, id: KR3k0007_CHANT_002-bkkpn165}
+  - {type: punctuation, offset: 781, content: ，, id: KR3k0007_CHANT_002-bkkpn166}
+  - {type: 'tls:seg', offset: 781, content: '', id: KR3k0007_CHANT_002-1a.99}
+  - {type: punctuation, offset: 785, content: 。, id: KR3k0007_CHANT_002-bkkpn167}
+  - {type: 'tls:seg', offset: 785, content: '', id: KR3k0007_CHANT_002-1a.100}
+  - {type: punctuation, offset: 792, content: 《, id: KR3k0007_CHANT_002-bkkpn168}
+  - {type: punctuation, offset: 796, content: 》, id: KR3k0007_CHANT_002-bkkpn169}
+  - {type: variant, offset: 799, length: 47, content: 亦引古今姓纂按其詞有引通鑑云云則不盡林氏原書其廣韻所引氏姓亦有林氏之文但不云出於姓纂不敢濫補吾, WYG: 郎中}
+  - {type: variant, offset: 799, length: 47, content: 亦引古今姓纂按其詞有引通鑑云云則不盡林氏原書其廣韻所引氏姓亦有林氏之文但不云出於姓纂不敢濫補吾, krp: 郎中}
+  - {type: punctuation, offset: 801, content: 《, id: KR3k0007_CHANT_002-bkkpn170}
+  - {type: punctuation, offset: 805, content: 》, id: KR3k0007_CHANT_002-bkkpn171}
+  - {type: punctuation, offset: 805, content: ，, id: KR3k0007_CHANT_002-bkkpn172}
+  - {type: 'tls:seg', offset: 805, content: '', id: KR3k0007_CHANT_002-1a.101}
+  - {type: punctuation, offset: 810, content: 《, id: KR3k0007_CHANT_002-bkkpn173}
+  - {type: punctuation, offset: 812, content: 》, id: KR3k0007_CHANT_002-bkkpn174}
+  - {type: punctuation, offset: 814, content: ，, id: KR3k0007_CHANT_002-bkkpn175}
+  - {type: 'tls:seg', offset: 814, content: '', id: KR3k0007_CHANT_002-1a.102}
+  - {type: punctuation, offset: 821, content: 。, id: KR3k0007_CHANT_002-bkkpn176}
+  - {type: 'tls:seg', offset: 821, content: '', id: KR3k0007_CHANT_002-1a.103}
+  - {type: punctuation, offset: 822, content: 《, id: KR3k0007_CHANT_002-bkkpn177}
+  - {type: punctuation, offset: 824, content: 》, id: KR3k0007_CHANT_002-bkkpn178}
+  - {type: punctuation, offset: 834, content: ，, id: KR3k0007_CHANT_002-bkkpn179}
+  - {type: 'tls:seg', offset: 834, content: '', id: KR3k0007_CHANT_002-1a.104}
+  - {type: punctuation, offset: 839, content: 《, id: KR3k0007_CHANT_002-bkkpn180}
+  - {type: punctuation, offset: 841, content: 》, id: KR3k0007_CHANT_002-bkkpn181}
+  - {type: punctuation, offset: 841, content: ，, id: KR3k0007_CHANT_002-bkkpn182}
+  - {type: 'tls:seg', offset: 841, content: '', id: KR3k0007_CHANT_002-1a.105}
+  - {type: punctuation, offset: 845, content: 。, id: KR3k0007_CHANT_002-bkkpn183}
+  - {type: 'tls:seg', offset: 845, content: '', id: KR3k0007_CHANT_002-1a.106}
+  - {type: variant, offset: 847, length: 0, content: '', WYG: 清生郯坊州刺史冲隋户部}
+  - {type: variant, offset: 847, length: 0, content: '', krp: 清生郯坊州刺史冲隋户部}
+  - {type: variant, offset: 849, length: 0, content: '', WYG: 義豐公聘陳生挺徳運挺御史大夫生待價履冰興宗萬石待價左僕射扶陽公生令儀案唐世系表此下尚有烈一人司門}
+  - {type: variant, offset: 849, length: 0, content: '', krp: 義豐公聘陳生挺徳運挺御史大夫生待價履冰興宗萬石待價左僕射扶陽公生令儀案唐世系表此下尚有烈一人司門}
+  - {type: variant, offset: 850, length: 0, content: '', WYG: 中梁州都督令儀生鑒鑾錡鎔鎰鑾生應物蘇州刺史應物生慶復鎔生繫岳州刺史鎰監察御史生武兵部侍郎生京京兆尹案唐世系表武為京兆尹後無人此作生京或因京兆字悞未詳烈曾孫宏景司門員外郎翰林學士興宗生令望令悌令裕令望生叔卿丹州刺史叔卿生澣滌澣昭應令滌饒州刺史令悌孫汎江州刺史令裕屯田員外萬石吏部郎中太常少卿知吏部選德運生山甫吉甫山甫屯田郎中吉甫司門郎中生按生字疑衍約隋儀同觀城公生克己後己克己生遥光萬年令後己曾孫誠奢殿中御史誠奢生晊兵部郎中晊生公輔公素公度公璵公肅旭次子鄖國公裕字孝寛周大司徒尚書令生緫夀霽津靜案鄖襄公六子唐世系表尚有諶一人此脱緫生匡伯圓照匡伯生思言思齊思仁思言生逞光禄卿思齊司稼卿生案唐世系表思齊生紀此脱衞尉卿懐寧公思仁尚衣奉御生巨源液巨源侍中生明剔華州刺史液孫寡悔圓照孫觀生潤案唐世系表圓照生觀觀生爽爽生潤與此不合鴻潤生昭信滄州長史中丞鴻案唐世系表鴻作湜生昭訓太僕昭訓生光宰太僕少卿光裔少府監光弼大理少卿光弼生廌庠庇元光胄太常少卿生慶光輔大理少卿夀隋恒州刺史滑國公生寧巒義節寧巒右衞副率孫知逹案唐世系表知逹作知逺監察御史義節刑部侍郎襄城公孫慎行慎名慎惑慎行生濳渙濳澧州刺史渙嘉州刺史慎名彭州刺史慎惑右驍騎將軍霽隋岐州刺史左常侍致仕津隋隴州刺史黄門侍郎吏部尚書唐諫議大夫太僕少卿夀光男生金璧案唐世系表金璧作全璧琬琨璲瑜金璧生悦忻季重憺悦給事中生勉幹勉復州刺史忻兵部郎中生希先夐案唐世系表夐作奐希一謇希先比部郎中夐虞部郎中杭州刺史季重生烈都官員外烈生邁迪憺生千里持盈千里生昻昻生宏琬職方員外成州刺史生令則叔夏季良才絢安石季弼叔夏禮部侍郎生縚太常卿太子少師縚生宏協義才絢溫王府司馬生求回由韶嬰最睦由鴻臚少卿生士炎堚址墀韶明州刺史生大冏嬰生士南萬州刺史士文秘書少監安石中書令郇文貞公生陟斌陟吏部尚書生士瞻允允吏部員外潁州刺史四代入省允生同元同訓斌中書舍人汝州刺史生衮曼渢襄旉凛况衮駕部郎中四代入省生同懿同休同憲渢洛陽令凛朗州刺史况諫議大夫季弼生亷考功員外亷生肅端端生縝紓琨户部侍郎太子詹事生暢展初平案唐世系表初平作㓜平調翼暢生抗楫拯抗刑部尚書生翹同州刺史拯户部郎中生演展孫澣閬州刺史初平生抱貞梓州刺史抱貞生綆政政生丹丹生宙調孫崟隴州刺史翼太府卿璲倉部郎中瑜}
+  - {type: page-break, offset: 850, content: '', id: KR3k0007_WYG_002-19a, image: WYG0890/WYG0890-0542c.png}
+  - {type: page-break, offset: 850, content: '', id: KR3k0007_WYG_002-19b, image: WYG0890/WYG0890-0542d.png}
+  - {type: page-break, offset: 850, content: '', id: KR3k0007_WYG_002-20a, image: WYG0890/WYG0890-0543a.png}
+  - {type: page-break, offset: 850, content: '', id: KR3k0007_WYG_002-20b, image: WYG0890/WYG0890-0543b.png}
+  - {type: page-break, offset: 850, content: '', id: KR3k0007_WYG_002-21a, image: WYG0890/WYG0890-0543c.png}
+  - {type: page-break, offset: 850, content: '', id: KR3k0007_WYG_002-21b, image: WYG0890/WYG0890-0543d.png}
+  - {type: variant, offset: 850, length: 0, content: '', krp: 中梁州都督令儀生鑒鑾錡鎔鎰鑾生應物蘇州刺史應物生慶復鎔生繫岳州刺史鎰監察御史生武兵部侍郎生京京兆尹案唐世系表武為京兆尹後無人此作生京或因京兆字悞未詳烈曾孫宏景司門員外郎翰林學士興宗生令望令悌令裕令望生叔卿丹州刺史叔卿生澣滌澣昭應令滌饒州刺史令悌孫汎江州刺史令裕屯田員外萬石吏部郎中太常少卿知吏部選德運生山甫吉甫山甫屯田郎中吉甫司門郎中生按生字疑衍約隋儀同觀城公生克己後己克己生遥光萬年令後己曾孫誠奢殿中御史誠奢生晊兵部郎中晊生公輔公素公度公璵公肅旭次子鄖國公裕字孝寛周大司徒尚書令生緫夀霽津靜案鄖襄公六子唐世系表尚有諶一人此脱緫生匡伯圓照匡伯生思言思齊思仁思言生逞光禄卿思齊司稼卿生案唐世系表思齊生紀此脱衞尉卿懐寧公思仁尚衣奉御生巨源液巨源侍中生明剔華州刺史液孫寡悔圓照孫觀生潤案唐世系表圓照生觀觀生爽爽生潤與此不合鴻潤生昭信滄州長史中丞鴻案唐世系表鴻作湜生昭訓太僕昭訓生光宰太僕少卿光裔少府監光弼大理少卿光弼生廌庠庇元光胄太常少卿生慶光輔大理少卿夀隋恒州刺史滑國公生寧巒義節寧巒右衞副率孫知逹案唐世系表知逹作知逺監察御史義節刑部侍郎襄城公孫慎行慎名慎惑慎行生濳渙濳澧州刺史渙嘉州刺史慎名彭州刺史慎惑右驍騎將軍霽隋岐州刺史左常侍致仕津隋隴州刺史黄門侍郎吏部尚書唐諫議大夫太僕少卿夀光男生金璧案唐世系表金璧作全璧琬琨璲瑜金璧生悦忻季重憺悦給事中生勉幹勉復州刺史忻兵部郎中生希先夐案唐世系表夐作奐希一謇希先比部郎中夐虞部郎中杭州刺史季重生烈都官員外烈生邁迪憺生千里持盈千里生昻昻生宏琬職方員外成州刺史生令則叔夏季良才絢安石季弼叔夏禮部侍郎生縚太常卿太子少師縚生宏協義才絢溫王府司馬生求回由韶嬰最睦由鴻臚少卿生士炎堚址墀韶明州刺史生大冏嬰生士南萬州刺史士文秘書少監安石中書令郇文貞公生陟斌陟吏部尚書生士瞻允允吏部員外潁州刺史四代入省允生同元同訓斌中書舍人汝州刺史生衮曼渢襄旉凛况衮駕部郎中四代入省生同懿同休同憲渢洛陽令凛朗州刺史况諫議大夫季弼生亷考功員外亷生肅端端生縝紓琨户部侍郎太子詹事生暢展初平案唐世系表初平作㓜平調翼暢生抗楫拯抗刑部尚書生翹同州刺史拯户部郎中生演展孫澣閬州刺史初平生抱貞梓州刺史抱貞生綆政政生丹丹生宙調孫崟隴州刺史翼太府卿璲倉部郎中瑜}
+  - {type: variant, offset: 851, length: 6, content: 人洪瑩篤愛此, WYG: 州刺史穆五代孫闗案唐世系表闗作閬後魏殿中尚}
+  - {type: variant, offset: 851, length: 6, content: 人洪瑩篤愛此, krp: 州刺史穆五代孫闗案唐世系表闗作閬後魏殿中尚}
+  - {type: punctuation, offset: 854, content: ，, id: KR3k0007_CHANT_002-bkkpn184}
+  - {type: 'tls:seg', offset: 854, content: '', id: KR3k0007_CHANT_002-1a.107}
+  - {type: punctuation, offset: 858, content: ，, id: KR3k0007_CHANT_002-bkkpn185}
+  - {type: 'tls:seg', offset: 858, content: '', id: KR3k0007_CHANT_002-1a.108}
+  - {type: variant, offset: 858, length: 37, content: 欲刊布傳遠與予增校條舉件繫日得數十事二旬而畢猶有漏略當俟來者云賜進士及第東, WYG: 生範範生法儁顥祖歡法儁生子粲榮亮道諧子粲生孝謇集州刺史榮亮生綱綱生文宗文傑文宗生徳敏徳基徳敏考功郎中太府少卿生璆珙玢璆宗正卿生元誠元濟元賁元曾元誠生彤澧州刺史元曾吏部郎中珙光禄卿生元}
+  - {type: page-break, offset: 858, content: '', id: KR3k0007_WYG_002-22a, image: WYG0890/WYG0890-0544a.png}
+  - {type: variant, offset: 858, length: 37, content: 欲刊布傳遠與予增校條舉件繫日得數十事二旬而畢猶有漏略當俟來者云賜進士及第東, krp: 生範範生法儁顥祖歡法儁生子粲榮亮道諧子粲生孝謇集州刺史榮亮生綱綱生文宗文傑文宗生徳敏徳基徳敏考功郎中太府少卿生璆珙玢璆宗正卿生元誠元濟元賁元曾元誠生彤澧州刺史元曾吏部郎中珙光禄卿生元}
+  - {type: punctuation, offset: 863, content: ，, id: KR3k0007_CHANT_002-bkkpn186}
+  - {type: 'tls:seg', offset: 863, content: '', id: KR3k0007_CHANT_002-1a.109}
+  - {type: substitution, offset: 864, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: punctuation, offset: 867, content: ，, id: KR3k0007_CHANT_002-bkkpn187}
+  - {type: 'tls:seg', offset: 867, content: '', id: KR3k0007_CHANT_002-1a.110}
+  - {type: punctuation, offset: 871, content: ，, id: KR3k0007_CHANT_002-bkkpn188}
+  - {type: 'tls:seg', offset: 871, content: '', id: KR3k0007_CHANT_002-1a.111}
+  - {type: punctuation, offset: 876, content: ，, id: KR3k0007_CHANT_002-bkkpn189}
+  - {type: 'tls:seg', offset: 876, content: '', id: KR3k0007_CHANT_002-1a.112}
+  - {type: punctuation, offset: 880, content: ，, id: KR3k0007_CHANT_002-bkkpn190}
+  - {type: 'tls:seg', offset: 880, content: '', id: KR3k0007_CHANT_002-1a.113}
+  - {type: punctuation, offset: 884, content: ，, id: KR3k0007_CHANT_002-bkkpn191}
+  - {type: 'tls:seg', offset: 884, content: '', id: KR3k0007_CHANT_002-1a.114}
+  - {type: punctuation, offset: 889, content: 。, id: KR3k0007_CHANT_002-bkkpn192}
+  - {type: xml-element, offset: 889, content: '', id: KR3k0007_CHANT_002-bkkxmlele2}
+  - {type: xml-element, offset: 889, content: '', id: KR3k0007_CHANT_002-bkkxmlele3}
+  - {type: 'tls:seg', offset: 889, content: '', id: KR3k0007_CHANT_002-2a.1}
+  - {type: 'tls:seg', offset: 889, content: '', id: KR3k0007_CHANT_002-2a.2}
+  - {type: punctuation, offset: 894, content: 、, id: KR3k0007_CHANT_002-bkkpn193}
+  - {type: variant, offset: 896, length: 0, content: '', WYG: 元志玢尚書右丞生元甫元懌元甫尚書右丞揚府長史生悦長安令元懌生愃巴州刺史徳基金部郎中生延安球延安鄂州刺史球生之晉之晉湖南}
+  - {type: variant, offset: 896, length: 0, content: '', krp: 元志玢尚書右丞生元甫元懌元甫尚書右丞揚府長史生悦長安令元懌生愃巴州刺史徳基金部郎中生延安球延安鄂州刺史球生之晉之晉湖南}
+  - {type: variant, offset: 899, length: 3, content: 者署廉, WYG: 生祐文傑孫玠榮州刺史玠生􅛴金部員外道入山東類例顥孫謩普安公謩生士讓雍州别駕祖歡曾孫世師唐博州刺史生太真户部侍郎太真生瓊之修業瓊之考功郎中修業水部員外世師少子崇操生月將皛忠皛眉州刺史忠普州刺史逍遥公從父義弟逺周雍州刺史弟暉業繼為雍州號大雍州房小雍州房大雍州房義逺生祖宙祖霽霽生儹傑倫傑生思敬思正思安思敬孫利器諫議大夫利賔户部郎中生向工部員外向生彭夀右司員外明州刺史三代入省利渉主爵郎中思正生璉深州刺史思安駙馬嵐州刺史曾孫騰同州刺史倫生惲度支郎中小雍州房暉業曾孫敦禮監察御史穆九代孫南皮公瓚隋尚書右丞生叔諧季武叔謙叔諧庫部郎中生元福元奬元福判兵部員外生湊河南尹湊生見素左相左僕射幽忠真公見素生倜諤益哲案唐世系表哲作晢倜給事中御史中丞生頌庫部郎中諤給事中益工部員外六代入省哲光禄少卿元奬生光乗朔方節度光乗生儇倫案唐世系表倫作儉俛儇江西觀察生良放倫太常少卿太子少保生敦徵俛衞尉少卿生正己季武主爵員外叔謙考功郎中生知人庫部員外知人生維縝縱紹維户部郎中庶子生虛心虛舟虛心工部尚書生有方左司員外五代入省虛舟刑部侍郎縱生虛受昭理虛受通州刺史昭理常州刺史縝生㓜成㓜卿㓜章㓜竒㓜成武部郎中漢中太守山南採}
+  - {type: page-break, offset: 899, content: '', id: KR3k0007_WYG_002-22b, image: WYG0890/WYG0890-0544b.png}
+  - {type: page-break, offset: 899, content: '', id: KR3k0007_WYG_002-23a, image: WYG0890/WYG0890-0544c.png}
+  - {type: page-break, offset: 899, content: '', id: KR3k0007_WYG_002-23b, image: WYG0890/WYG0890-0544d.png}
+  - {type: variant, offset: 899, length: 3, content: 者署廉, krp: 生祐文傑孫玠榮州刺史玠生􅛴金部員外道入山東類例顥孫謩普安公謩生士讓雍州别駕祖歡曾孫世師唐博州刺史生太真户部侍郎太真生瓊之修業瓊之考功郎中修業水部員外世師少子崇操生月將皛忠皛眉州刺史忠普州刺史逍遥公從父義弟逺周雍州刺史弟暉業繼為雍州號大雍州房小雍州房大雍州房義逺生祖宙祖霽霽生儹傑倫傑生思敬思正思安思敬孫利器諫議大夫利賔户部郎中生向工部員外向生彭夀右司員外明州刺史三代入省利渉主爵郎中思正生璉深州刺史思安駙馬嵐州刺史曾孫騰同州刺史倫生惲度支郎中小雍州房暉業曾孫敦禮監察御史穆九代孫南皮公瓚隋尚書右丞生叔諧季武叔謙叔諧庫部郎中生元福元奬元福判兵部員外生湊河南尹湊生見素左相左僕射幽忠真公見素生倜諤益哲案唐世系表哲作晢倜給事中御史中丞生頌庫部郎中諤給事中益工部員外六代入省哲光禄少卿元奬生光乗朔方節度光乗生儇倫案唐世系表倫作儉俛儇江西觀察生良放倫太常少卿太子少保生敦徵俛衞尉少卿生正己季武主爵員外叔謙考功郎中生知人庫部員外知人生維縝縱紹維户部郎中庶子生虛心虛舟虛心工部尚書生有方左司員外五代入省虛舟刑部侍郎縱生虛受昭理虛受通州刺史昭理常州刺史縝生㓜成㓜卿㓜章㓜竒㓜成武部郎中漢中太守山南採}
+  - {type: punctuation, offset: 900, content: 、, id: KR3k0007_CHANT_002-bkkpn194}
+  - {type: punctuation, offset: 904, content: 、, id: KR3k0007_CHANT_002-bkkpn195}
+  - {type: variant, offset: 904, length: 0, content: '', WYG: 㓜章楚州刺史㓜卿生雄雄生詡紹改名綱比部員外生傳詔再從孫清左金吾將軍生正牧楚牧瓚堂孫元泰度支郎中陜州刺史生光堅光資州刺史堅生佶案唐世系表佶作信舒州刺史瓚從祖弟子述述曾孫鑑案唐世系表鑑作鏗考功郎中生少逰少華少逰吏部郎中少華中書舍人少逰生復建州刺史瓚四代孫宏獻刑部郎中郿城公穆八代孫郿城公元禮隋司農少卿生孝恪侍御史孝恪生宏楷宏機宏挺宏楷出為饒州刺史宏機司農卿生餘慶餘慶生岳子景駿景林岳子峽州刺史生晉恒漸賁損益豐恒兵部郎中華州刺史賁藍田尉生聿暈臯肇聿比部郎中右庶子暈屯田員外臯太尉中書令劔南節度南康王生行立工部員外肇兼御史大夫損職方郎中潤州刺史生􅉓异弇景駿房州刺史生述迪起􅙝廵冰述工部侍郎撰國史集賢學士禮儀使生州平都賔州平水部郎中都賔太常博士迪户部員外生宅相夏有啓强嬰齊栢尼夏有考功郎中嬰齊衞尉卿氷一名逹生渠牟太常卿景林生咸工部郎中咸生覃楚州刺史覃生閬共閬次子秦寳生邕邕彭城公房生澄淹案唐世系表東眷韋氏穆曾孫楷晉長樂清河二郡守生逵慕容垂大長秋卿生閬避地薊城後魏太武召為咸陽太守子孫因自别為閬公房二子範道珍道珍字秦寳後魏威逺將軍扶風馮翊二郡太守生邕著作郎諫議大夫生鴻胄二子澄淹因號彭城公房此作覃生閬邕生澄俱悞澄國子祭酒彭城公生慶嗣慶植慶基慶兢慶祚慶暕慶嗣生正紀正履正矩正紀工部員外正履曾孫彪永州刺史彤太常博士正矩駙馬都尉慶植倉部郎中生璠珣珽頊璠駕部員外生鈞鉉鉉虞部郎中生瑩司門郎中珣生銑給事中揚府長史曾孫宥案唐世系表曽孫作五代孫台州刺史珽閬州刺史生鎬鳯州刺史頊宗正卿生鐬太僕卿駙馬都尉生友信友剛友順友信婺州刺史生縝綬綬屯田郎中友剛漳州刺史慶基兵部郎中生錫台州刺史兢庫部郎中生巨山巨山生元旦元曄元晨元旦中書舍人元曄司勲員外元晨殿中御史生涵登涵生顥洋州刺史登生萬順俛顓萬忠州刺史慶祚生行詳行誠行佺案唐世系表慶祚生潁潁生行詳等此作慶祚生行詳中缺一代行詳孫幹太子詹事行誠曾孫公右昭應令公右生及三原令行詮尚書右丞生良宰利見利見廣府節度生明扆案唐世系表明扆作明宸劍州刺史慶暕户部員外生昇澤州刺史澄弟淹不仕生雲起雲表雲平雲起益州行臺兵部尚書司農卿生師寳虞部郎中師寳生方質方直方質地官尚書平章事孫岷蓬州刺史方直兵部郎中雲表工部郎中雲平度支郎中生師貞師貞生元晟元珪元晟綿州刺史生汪岷州刺史元珪宗正卿生堅蘭芝堅刑部尚書生誕果州刺史蘭將作少監芝兵部員外穆八代孫延賔生璋福議璋孫岌生元郁案唐世系表郁作都元諤元誕郁生璿職方郎中諤生嬰顗嬰左金吾將軍顗太子僕元誕生瑗瑅瑗司勲郎中瑅宗正少卿福孫昌左驍衞大將軍普安公議生宏慶宏度宏表宏素宏慶生元希元瑾元希生灌濯案唐世系表灌作淮灌光禄少卿曹國公濯駙馬太僕生㑹贊善大夫㑹生鷫鵰鶚元瑾生渉太僕少卿宏度孫淑衞尉少卿淑生藏鎽宏表生元儼元貞元儼工部郎中生灌溫湑灌生搆播搆太僕少卿魯公播吏部郎中宋公溫禮部尚書平章事太子少保曹公湑太僕卿生捷秘書少監駙馬都尉元貞蔡州刺史女為中宗皇后廢為庶人生洵浩洞沘宏素生元昭元昭生濬衞尉少卿襄陽東眷穆元孫華随宋武過江居襄陽縣祖歸生纂闡叡叡生放政放生粲政生鼎載前史並有傳纂曾孫宏瑗生徳倫知止徳倫任邱令生仁慎仁約納言博昌男生承慶案唐世系表徳倫生思謙思謙生承慶嗣立淑承慶鳯閣侍郎平章事扶陽子生晉長裕晉常州刺史長裕祠部員外嗣立中書令逍遥孝公生子恒濟孚孚右司員外恒給事中陳留採訪使濟户部侍郎生逢士模案唐世系表士模作士樸士勛奥函逢虞部員外生貞伯成季貞伯給事中成季兵部郎中士模彭州刺史士勛河南少尹函邵州刺史淑安州都督仁慎駕部郎中生奉先金部郎中奉先生濬梓州刺史知止庫部郎中孫嗣業生希損希生明案唐世系表明作朗損生常京兆諸房韋氏主客郎中韋弼稱東眷龍門公房弼生伯陽季莊叔將伯陽倉部郎中生建迢造建太子詹事致仕迢韶州刺史生夏卿周卿正卿正卿生珩瓘季莊扶風太守孫宗卿出繼堂伯建户部員外叔將蔡州刺史弼兄㑹生仲昌叔昻伯詳度支郎中京兆尹生漸莓案唐世系表仲昌京兆尹生漸莓此度支郎上脱仲昌二字莓巴州刺史生執中執誼執中泉州刺史執誼尚書左丞平章事叔昻右司郎中生汎汎生萬伯詳考功郎中蓬州刺史韋志檢稱閬後兄子趙賔秦州都督監察御史韋務靖稱東眷今占韋城五代祖彧髙祖珍後魏附傳靖兄子光業光州刺史生南金兖州都督金孫説賀州刺史職方員外韋宻占積泉唐南寧州都督韋仁肅稱西眷照平齊公同承策夀堂兄案此下有脫文曾孫光朝萬年令生曾舒州刺史職方員外宏仁稱東眷郿城公同承頤宏仁兄宏道五代孫昌著作郎生兢京兆府法曹著作郎韋安仁祖翽陳書有傳稱東眷居襄州代仕江左今無聞延陵元成九代孫昭呉侍中裔孫齊中書侍郎遵唐蘭陵令生元静其延陵諸韋並云承侍中昭猆左傳有猆豹漢有猆禹案姓纂引左傳猆豹正與廣韻注同知今本作斐字誤也非風俗通云秦非子之後肥戰國時趙賢人義之後風俗通云漢有黥布將肥銖又仁恕掾肥親賁漢功臣表賁赫擊黥布及平封其恩侯案賁赫漢表作期思康侯㡬風俗通宋大夫仲㡬之後以王父字為氏畿後魏官氏志侯畿氏改為畿氏歸左傳胡子國歸姓為楚所滅子孫姓歸氏其後世居呉郡呉郡唐工部尚書歸崇敬生登工部侍郎生融刑部尚書微生論語微生畆魯武城人也又微生髙或云尾生也飛亷風俗通飛亷國秦所滅因氏焉漢書光禄大夫飛亷安國圍龜楚大夫鬭圍龜之後九魚魚風俗通宋桓公子目夷字子魚子孫以王父字為氏漢有長安人魚翁俶也馮翊下邳苻秦有魚遵元孫經後魏吏部尚書生徽俊代畧俊生備隋髙唐公生俱羅隋安州刺史髙唐公生懐節讓儼世畧後魏雍州刺史梁泉公生叔攢唐將作丞生曄􅀈度支郎中司農少卿也徐顓頊之後嬴姓伯益之子夏時受封於徐至偃王為楚所㓕以國為氏漢有河南太守徐守徐明又有徐儉東海郯州自明居五代孫寧過江東生祚之生欽之羙之案唐世系表羙之作羡之羙之宋司徒欽之生逵之宋沛郡太守尚武帝女㑹稽公主生湛之司徒生聿之案唐世系表湛之二子恒之聿之恒之生孝嗣此聿之下脱去恒之恒之生五字孝嗣齊尚書令太尉生倱案唐世系表倱作緄梁侍中生君㳺君}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-24a, image: WYG0890/WYG0890-0545a.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-24b, image: WYG0890/WYG0890-0545b.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-25a, image: WYG0890/WYG0890-0545c.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-25b, image: WYG0890/WYG0890-0545d.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-26a, image: WYG0890/WYG0890-0546a.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-26b, image: WYG0890/WYG0890-0546b.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-27a, image: WYG0890/WYG0890-0546c.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-27b, image: WYG0890/WYG0890-0546d.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-28a, image: WYG0890/WYG0890-0547a.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-28b, image: WYG0890/WYG0890-0547b.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-29a, image: WYG0890/WYG0890-0547c.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-29b, image: WYG0890/WYG0890-0547d.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-30a, image: WYG0890/WYG0890-0548a.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-30b, image: WYG0890/WYG0890-0548b.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-31a, image: WYG0890/WYG0890-0548c.png}
+  - {type: page-break, offset: 904, content: '', id: KR3k0007_WYG_002-31b, image: WYG0890/WYG0890-0548d.png}
+  - {type: variant, offset: 904, length: 0, content: '', krp: 㓜章楚州刺史㓜卿生雄雄生詡紹改名綱比部員外生傳詔再從孫清左金吾將軍生正牧楚牧瓚堂孫元泰度支郎中陜州刺史生光堅光資州刺史堅生佶案唐世系表佶作信舒州刺史瓚從祖弟子述述曾孫鑑案唐世系表鑑作鏗考功郎中生少逰少華少逰吏部郎中少華中書舍人少逰生復建州刺史瓚四代孫宏獻刑部郎中郿城公穆八代孫郿城公元禮隋司農少卿生孝恪侍御史孝恪生宏楷宏機宏挺宏楷出為饒州刺史宏機司農卿生餘慶餘慶生岳子景駿景林岳子峽州刺史生晉恒漸賁損益豐恒兵部郎中華州刺史賁藍田尉生聿暈臯肇聿比部郎中右庶子暈屯田員外臯太尉中書令劔南節度南康王生行立工部員外肇兼御史大夫損職方郎中潤州刺史生􅉓异弇景駿房州刺史生述迪起􅙝廵冰述工部侍郎撰國史集賢學士禮儀使生州平都賔州平水部郎中都賔太常博士迪户部員外生宅相夏有啓强嬰齊栢尼夏有考功郎中嬰齊衞尉卿氷一名逹生渠牟太常卿景林生咸工部郎中咸生覃楚州刺史覃生閬共閬次子秦寳生邕邕彭城公房生澄淹案唐世系表東眷韋氏穆曾孫楷晉長樂清河二郡守生逵慕容垂大長秋卿生閬避地薊城後魏太武召為咸陽太守子孫因自别為閬公房二子範道珍道珍字秦寳後魏威逺將軍扶風馮翊二郡太守生邕著作郎諫議大夫生鴻胄二子澄淹因號彭城公房此作覃生閬邕生澄俱悞澄國子祭酒彭城公生慶嗣慶植慶基慶兢慶祚慶暕慶嗣生正紀正履正矩正紀工部員外正履曾孫彪永州刺史彤太常博士正矩駙馬都尉慶植倉部郎中生璠珣珽頊璠駕部員外生鈞鉉鉉虞部郎中生瑩司門郎中珣生銑給事中揚府長史曾孫宥案唐世系表曽孫作五代孫台州刺史珽閬州刺史生鎬鳯州刺史頊宗正卿生鐬太僕卿駙馬都尉生友信友剛友順友信婺州刺史生縝綬綬屯田郎中友剛漳州刺史慶基兵部郎中生錫台州刺史兢庫部郎中生巨山巨山生元旦元曄元晨元旦中書舍人元曄司勲員外元晨殿中御史生涵登涵生顥洋州刺史登生萬順俛顓萬忠州刺史慶祚生行詳行誠行佺案唐世系表慶祚生潁潁生行詳等此作慶祚生行詳中缺一代行詳孫幹太子詹事行誠曾孫公右昭應令公右生及三原令行詮尚書右丞生良宰利見利見廣府節度生明扆案唐世系表明扆作明宸劍州刺史慶暕户部員外生昇澤州刺史澄弟淹不仕生雲起雲表雲平雲起益州行臺兵部尚書司農卿生師寳虞部郎中師寳生方質方直方質地官尚書平章事孫岷蓬州刺史方直兵部郎中雲表工部郎中雲平度支郎中生師貞師貞生元晟元珪元晟綿州刺史生汪岷州刺史元珪宗正卿生堅蘭芝堅刑部尚書生誕果州刺史蘭將作少監芝兵部員外穆八代孫延賔生璋福議璋孫岌生元郁案唐世系表郁作都元諤元誕郁生璿職方郎中諤生嬰顗嬰左金吾將軍顗太子僕元誕生瑗瑅瑗司勲郎中瑅宗正少卿福孫昌左驍衞大將軍普安公議生宏慶宏度宏表宏素宏慶生元希元瑾元希生灌濯案唐世系表灌作淮灌光禄少卿曹國公濯駙馬太僕生㑹贊善大夫㑹生鷫鵰鶚元瑾生渉太僕少卿宏度孫淑衞尉少卿淑生藏鎽宏表生元儼元貞元儼工部郎中生灌溫湑灌生搆播搆太僕少卿魯公播吏部郎中宋公溫禮部尚書平章事太子少保曹公湑太僕卿生捷秘書少監駙馬都尉元貞蔡州刺史女為中宗皇后廢為庶人生洵浩洞沘宏素生元昭元昭生濬衞尉少卿襄陽東眷穆元孫華随宋武過江居襄陽縣祖歸生纂闡叡叡生放政放生粲政生鼎載前史並有傳纂曾孫宏瑗生徳倫知止徳倫任邱令生仁慎仁約納言博昌男生承慶案唐世系表徳倫生思謙思謙生承慶嗣立淑承慶鳯閣侍郎平章事扶陽子生晉長裕晉常州刺史長裕祠部員外嗣立中書令逍遥孝公生子恒濟孚孚右司員外恒給事中陳留採訪使濟户部侍郎生逢士模案唐世系表士模作士樸士勛奥函逢虞部員外生貞伯成季貞伯給事中成季兵部郎中士模彭州刺史士勛河南少尹函邵州刺史淑安州都督仁慎駕部郎中生奉先金部郎中奉先生濬梓州刺史知止庫部郎中孫嗣業生希損希生明案唐世系表明作朗損生常京兆諸房韋氏主客郎中韋弼稱東眷龍門公房弼生伯陽季莊叔將伯陽倉部郎中生建迢造建太子詹事致仕迢韶州刺史生夏卿周卿正卿正卿生珩瓘季莊扶風太守孫宗卿出繼堂伯建户部員外叔將蔡州刺史弼兄㑹生仲昌叔昻伯詳度支郎中京兆尹生漸莓案唐世系表仲昌京兆尹生漸莓此度支郎上脱仲昌二字莓巴州刺史生執中執誼執中泉州刺史執誼尚書左丞平章事叔昻右司郎中生汎汎生萬伯詳考功郎中蓬州刺史韋志檢稱閬後兄子趙賔秦州都督監察御史韋務靖稱東眷今占韋城五代祖彧髙祖珍後魏附傳靖兄子光業光州刺史生南金兖州都督金孫説賀州刺史職方員外韋宻占積泉唐南寧州都督韋仁肅稱西眷照平齊公同承策夀堂兄案此下有脫文曾孫光朝萬年令生曾舒州刺史職方員外宏仁稱東眷郿城公同承頤宏仁兄宏道五代孫昌著作郎生兢京兆府法曹著作郎韋安仁祖翽陳書有傳稱東眷居襄州代仕江左今無聞延陵元成九代孫昭呉侍中裔孫齊中書侍郎遵唐蘭陵令生元静其延陵諸韋並云承侍中昭猆左傳有猆豹漢有猆禹案姓纂引左傳猆豹正與廣韻注同知今本作斐字誤也非風俗通云秦非子之後肥戰國時趙賢人義之後風俗通云漢有黥布將肥銖又仁恕掾肥親賁漢功臣表賁赫擊黥布及平封其恩侯案賁赫漢表作期思康侯㡬風俗通宋大夫仲㡬之後以王父字為氏畿後魏官氏志侯畿氏改為畿氏歸左傳胡子國歸姓為楚所滅子孫姓歸氏其後世居呉郡呉郡唐工部尚書歸崇敬生登工部侍郎生融刑部尚書微生論語微生畆魯武城人也又微生髙或云尾生也飛亷風俗通飛亷國秦所滅因氏焉漢書光禄大夫飛亷安國圍龜楚大夫鬭圍龜之後九魚魚風俗通宋桓公子目夷字子魚子孫以王父字為氏漢有長安人魚翁俶也馮翊下邳苻秦有魚遵元孫經後魏吏部尚書生徽俊代畧俊生備隋髙唐公生俱羅隋安州刺史髙唐公生懐節讓儼世畧後魏雍州刺史梁泉公生叔攢唐將作丞生曄􅀈度支郎中司農少卿也徐顓頊之後嬴姓伯益之子夏時受封於徐至偃王為楚所㓕以國為氏漢有河南太守徐守徐明又有徐儉東海郯州自明居五代孫寧過江東生祚之生欽之羙之案唐世系表羙之作羡之羙之宋司徒欽之生逵之宋沛郡太守尚武帝女㑹稽公主生湛之司徒生聿之案唐世系表湛之二子恒之聿之恒之生孝嗣此聿之下脱去恒之恒之生五字孝嗣齊尚書令太尉生倱案唐世系表倱作緄梁侍中生君㳺君}
+  - {type: variant, offset: 905, length: 0, content: '', WYG: 君敷君㳺生澄案唐世系表澄作澈澄生文逺唐國子博士生士安生有功有忠有功右司郎中大理少卿生倫邠王案唐世系表邠王作岐慶二王司馬生蛟光禄少卿安定太守生濤檢校員外郎有忠濮陽令生渾吏部員外襄陳留太守採訪使君敷曾孫筠唐禮部侍郎右常侍生皎昭昕皎生詡謐詡許州牧生儀向儀祠部郎生雅粲粲檢校户部郎中兼御}
+  - {type: page-break, offset: 905, content: '', id: KR3k0007_WYG_002-32a, image: WYG0890/WYG0890-0549a.png}
+  - {type: variant, offset: 905, length: 0, content: '', krp: 君敷君㳺生澄案唐世系表澄作澈澄生文逺唐國子博士生士安生有功有忠有功右司郎中大理少卿生倫邠王案唐世系表邠王作岐慶二王司馬生蛟光禄少卿安定太守生濤檢校員外郎有忠濮陽令生渾吏部員外襄陳留太守採訪使君敷曾孫筠唐禮部侍郎右常侍生皎昭昕皎生詡謐詡許州牧生儀向儀祠部郎生雅粲粲檢校户部郎中兼御}
+  - {type: variant, offset: 906, length: 0, content: '', WYG: 中丞向司勲員外陳宋荆州刺史謐孫摯昭虞部郎中生孟嘗越相二州刺史致仕昕萬年令生琇冀州刺史生縯兵部郎中諌議大夫生縝宏毅縝朗州刺史宏毅侍御史儉孫充充次子機生韜韜生逸監逸元孫超之生摛梁左衞將軍生陵孝克陵陳尚書僕射生儉份儉右軍將軍生徳言陳太子舍人隋蒲州司功份陳中書舍人生令言唐中書舍人生茂宏孝克陳都官尚書隋國子博士監元孫融南昌令生勉梁尚書僕射居相位二十年生􅉓倫式序生山松悱矩按矩下疑脱權字悱晉安内使矩度支尚書權後梁右僕射孫瑜生元度唐弋陽令東陽偃王之後漢徐衡徙髙平孫饒又徙東陽七代至融融五代孫之才之範並北齊有傳繼封西陽王之才官至尚書令孫師順唐勝州總管髙平公之範孫仲宗衞尉大卿任城公生慶祚慶右司郎中祚度支郎中東莞姑幕漢費封東莞侯因家焉晋有邈廣子孫無聞髙平山陽縣今𨽻兖州後漢徐範生仲長避難山陽居焉北齊徐逺仲長之後官至西兖州刺史新陽王生榮孫太元唐倉部郎中長城與有功同承寧寧曾孫廣之晋呉興太守因居長城八代孫孝徳唐水部郎中生齊􅅨西臺舍人生堅中書舍人刑禮黄門三侍郎左右常侍東海文公生峻嶠峻金部郎中生旻駕部員外嶠中書舍人河南少尹生曇暈自孝徳至旻五代入省自齊􅅨至嶠三代中書舍人琅琊晋僕射宣之後宋有徐爰濮陽偃王之後今無聞於濳偃王之後為杭州望族新豐本出髙平徐範之後西魏度支尚書金鄉男徐招有傳云父㣲自髙平從魏孝武入關始居新豐招生會實雲孫仁􅁤龔州刺史會生正則眉州刺史實生荘銀州刺史生元揮都官郎中瑖邱北齊徐州治中狀稱本髙平人世居瑖邱曾孫仁㑹髙郵令生彦伯給事中工部侍郎右常侍太子賔客生鐈鍔鍔洛陽令司封郎中諸郡徐}
+  - {type: page-break, offset: 906, content: '', id: KR3k0007_WYG_002-32b, image: WYG0890/WYG0890-0549b.png}
+  - {type: page-break, offset: 906, content: '', id: KR3k0007_WYG_002-33a, image: WYG0890/WYG0890-0549c.png}
+  - {type: page-break, offset: 906, content: '', id: KR3k0007_WYG_002-33b, image: WYG0890/WYG0890-0549d.png}
+  - {type: page-break, offset: 906, content: '', id: KR3k0007_WYG_002-34a, image: WYG0890/WYG0890-0550a.png}
+  - {type: page-break, offset: 906, content: '', id: KR3k0007_WYG_002-34b, image: WYG0890/WYG0890-0550b.png}
+  - {type: variant, offset: 906, length: 0, content: '', krp: 中丞向司勲員外陳宋荆州刺史謐孫摯昭虞部郎中生孟嘗越相二州刺史致仕昕萬年令生琇冀州刺史生縯兵部郎中諌議大夫生縝宏毅縝朗州刺史宏毅侍御史儉孫充充次子機生韜韜生逸監逸元孫超之生摛梁左衞將軍生陵孝克陵陳尚書僕射生儉份儉右軍將軍生徳言陳太子舍人隋蒲州司功份陳中書舍人生令言唐中書舍人生茂宏孝克陳都官尚書隋國子博士監元孫融南昌令生勉梁尚書僕射居相位二十年生􅉓倫式序生山松悱矩按矩下疑脱權字悱晉安内使矩度支尚書權後梁右僕射孫瑜生元度唐弋陽令東陽偃王之後漢徐衡徙髙平孫饒又徙東陽七代至融融五代孫之才之範並北齊有傳繼封西陽王之才官至尚書令孫師順唐勝州總管髙平公之範孫仲宗衞尉大卿任城公生慶祚慶右司郎中祚度支郎中東莞姑幕漢費封東莞侯因家焉晋有邈廣子孫無聞髙平山陽縣今𨽻兖州後漢徐範生仲長避難山陽居焉北齊徐逺仲長之後官至西兖州刺史新陽王生榮孫太元唐倉部郎中長城與有功同承寧寧曾孫廣之晋呉興太守因居長城八代孫孝徳唐水部郎中生齊𣆀西臺舍人生堅中書舍人刑禮黄門三侍郎左右常侍東海文公生峻嶠峻金部郎中生旻駕部員外嶠中書舍人河南少尹生曇暈自孝徳至旻五代入省自齊𣆀至嶠三代中書舍人琅琊晋僕射宣之後宋有徐爰濮陽偃王之後今無聞於濳偃王之後為杭州望族新豐本出髙平徐範之後西魏度支尚書金鄉男徐招有傳云父㣲自髙平從魏孝武入關始居新豐招生會實雲孫仁軌龔州刺史會生正則眉州刺史實生荘銀州刺史生元揮都官郎中瑖邱北齊徐州治中狀稱本髙平人世居瑖邱曾孫仁㑹髙郵令生彦伯給事中工部侍郎右常侍太子賔客生鐈鍔鍔洛陽令司封郎中諸郡徐}
+  - {type: variant, offset: 907, length: 0, content: '', WYG: 户部侍郎徐知世居桞城生抗揖抗醴泉令揖檢校員外生放屯田員外台州刺史范陽節度徐歸道居范陽生濟洛州刺史生復倰復祠部郎中倰比部郎中諫議大夫徐元之居南昌又生申嶺南節度兼御史大夫元弼中書侍郎徐安貞居衢州龍邱諫議大夫徐瑩刑部員外徐履道生蕃洛州刺史徐嶠之居㑹稽生浩浚漪浩吏部郎東海郡公有傳生璹現玫現泌州刺史浚生珽頊瑒珽都官郎中頊渭南領軍瑒閬州刺史閭齊大夫閭邱嬰之後或單姓閭氏頓邱鄴中記有閭澄王僧孺百家譜琅邪王緒娶頓邱閭澄女河内茍元安娶頓邱閭法興女唐朝左補闕閭知㣲三原唐蜀州司馬閭邱珣上元中准制改姓閭氏生曇曇倉部郎中代郡後魏征西將軍閭毗本蠕蠕來降舒風俗通云舒子之後以國為姓案即春秋羣舒舒鳩舒蓼之後居晉大夫先且居之後以王父字為氏漢來城侯居般渠周大夫渠伯之後衞有渠孔漢渠叅封贊侯蘧音渠衛大夫蘧瑗字伯玉之後漢大行令蘧正余見姓苑新安風俗通云余子之後以國為姓餘晉有餘頠著複姓録本出傅氏按世本韓宣子之後有韓餘氏又英賢傳云傅説子}
+  - {type: page-break, offset: 907, content: '', id: KR3k0007_WYG_002-35a, image: WYG0890/WYG0890-0550c.png}
+  - {type: page-break, offset: 907, content: '', id: KR3k0007_WYG_002-35b, image: WYG0890/WYG0890-0550d.png}
+  - {type: page-break, offset: 907, content: '', id: KR3k0007_WYG_002-36a, image: WYG0890/WYG0890-0551a.png}
+  - {type: variant, offset: 907, length: 0, content: '', krp: 户部侍郎徐知世居桞城生抗揖抗醴泉令揖檢校員外生放屯田員外台州刺史范陽節度徐歸道居范陽生濟洛州刺史生復倰復祠部郎中倰比部郎中諫議大夫徐元之居南昌又生申嶺南節度兼御史大夫元弼中書侍郎徐安貞居衢州龍邱諫議大夫徐瑩刑部員外徐履道生蕃洛州刺史徐嶠之居㑹稽生浩浚漪浩吏部郎東海郡公有傳生璹現玫現泌州刺史浚生珽頊瑒珽都官郎中頊渭南領軍瑒閬州刺史閭齊大夫閭邱嬰之後或單姓閭氏頓邱鄴中記有閭澄王僧孺百家譜琅邪王緒娶頓邱閭澄女河内茍元安娶頓邱閭法興女唐朝左補闕閭知㣲三原唐蜀州司馬閭邱珣上元中准制改姓閭氏生曇曇倉部郎中代郡後魏征西將軍閭毗本蠕蠕來降舒風俗通云舒子之後以國為姓案即春秋羣舒舒鳩舒蓼之後居晉大夫先且居之後以王父字為氏漢來城侯居般渠周大夫渠伯之後衞有渠孔漢渠叅封贊侯蘧音渠衛大夫蘧瑗字伯玉之後漢大行令蘧正余見姓苑新安風俗通云余子之後以國為姓餘晉有餘頠著複姓録本出傅氏按世本韓宣子之後有韓餘氏又英賢傳云傅説子}
+  - {type: variant, offset: 908, length: 3, content: 星衍撰, WYG: 㽞傅巖者為傅餘氏然則餘之所出傅與韓未可定也前燕有餘元餘和並鮮卑種類案北史百濟王姓餘氏輿自云周大夫伯輿之後以王父字為氏河南官氏志莫輿氏改為輿氏後魏有輿珍見賀㧞勝傳胥晉大夫胥臣之後有胥克胥梁胥帶胥午胥童瑯琊姓苑云瑯琊有胥氏䟽東海漢太子太傅䟽廣廣兄子受世為太傅樗史記秦國相樗里子之後名疾儲後漢儲太伯又富人儲姥王莽亂以五百人㨿大庾嶺開元汜水尉儲光羲潤州人生石石生燕客燕客生嗣宗校書郎生隐檢校郎中如桓譚新論有通人如子禮漢書長安富人如氏也馮翊魏陳郡如淳注漢書河南官氏志如羅氏改為如大歴有右羽林將軍如元擢沮音葅黄帝史官沮誦之後廣平魏志袁尚謀臣沮授前燕中常侍沮皓魚孫風俗通宋大夫魚石奔楚在國者因氏焉北海漢有魚孫登仕北海相孫静琅琊相生欽有孝行曽孫晦北海太守後漢宏農太守魚孫和生瑜魏雍州刺史瑜生瑋晉濟南太守下邳太守生平原太守生􅂒清河太守生邈之居京兆口東莞太守案此條有脱文諸葛諸葛氏夏殷侯國葛伯之後英賢傳云舊居琅琊諸縣後徙陽都先有詹葛時人謂之諸葛氏因氏焉風俗通云葛伯嬰為陳渉將軍有功非罪而誅漢文追封子孫為諸縣侯因以為氏世本云有熊氏之後為詹葛氏齊人語訛以詹葛為諸葛氏案孔平仲雜記諸葛氏以諸縣之葛徙陽都因加諸字以别於陽都葛氏琅邪陽都縣漢司𨽻校尉諸葛豐裔孫圭後漢太山郡丞生瑾亮瑾吳大將軍左都䕶宛陵侯生恪喬恪中書令揚州牧喬生攀翊武將軍生顥徙河東亮蜀丞相武鄉侯生瞻蜀尚書僕射瞻生京晉江州刺史與顥並徙河東亮族弟誕魏司空兖州刺史生靚奔吳為大司馬靚生恢東晉左僕射尚書令生甝梁有陵零太守諸葛銓居丹陽生頴北齊太子舍人隋著作郎頴生㑹唐有諸葛荗道諸梁楚文子食邑諸梁因氏焉閭邱世本齊閭邱産生嬰嬰生歐歐生莖莖生施齊郡左傳嬰明及閭邱息並齊宣王時閭邱卬閭邱光漢有廷尉閭邱􅈴漢太常閭邱遵有閭邱决著書十二篇晉有太常閭邱冲南陽太守閭邱羨土又家漢州沮渠本臨松盧水人先為匈奴官號沮渠因氏焉吳有沮渠萬為張掖王晉末沮渠蒙遜僣稱西河王號凉都張掖二主三十九年為後魏所滅渠邱風俗通莒有渠邱公因氏焉彭城英賢傳云彭城有渠邱氏焉渠複漢武時屬國酋師渠復累封昆侯傳子絶於陵風俗通云陳仲子齊世家也辭爵灌園於於陵子孫氏焉於邱其先家於邱因氏焉漢有宛句人於邱略舒鮑世本偃姓國也晉悼公子舒鮑無終舒堅濳夫論楚公族有舒堅文叔為大夫舒鳩左傳少昊氏官名國于濟北以國氏焉按舒鳩楚屬國左傳少皡五鳩氏無舒鳩悮余邱齊公族食采余邱因氏焉漢有侍御史余邱炳又隠士余邱靈居曲河茹茹其先蠕茹茹種類為突厥所破歸中國後魏蔚州刺史髙平公茹茹敦思周寧州刺史洋公生師寳海賔師寳隋騎大將軍安次公生盛夀海賔唐右屯衞大將軍樗里見英賢傳濟南晉有樗里璠著春秋土地記三卷徐吾左傳鄭大夫徐吾犯之後徐盧漢景帝時匈奴徐盧庸來降如嵇改為綾氏案魏官氏志作緩氏此悮十虞虞虞有天下號曰虞子商均因以為氏又武王封虞仲於河東亦為虞氏㑹稽餘姚人趙相虞卿秦有虞香香十四代孫意自東郡徙餘姚五代孫歆歆生翻翻曽孫驤驤七代孫荔荔子世南唐秦府學士秘書監永興公生昶工部侍郎生茂世孫遜郎中歴沔州刺史云荔之後濟陽狀云逸人虞仲之後靈武廻樂狀云本自㑹稽徙焉後周有沁源公虞詳生慶則隋右僕射魯公孫操唐長江令于周武王第二子邘叔子孫以國為氏後去邑為于案淳于氏唐避憲宗諱亦為于氏東海漢有于公生丞相西平公定國生永御史大夫魏有將軍于禁唐中書舍人于季子今居齊郡歴城姪儒卿河南洛陽後魏書官氏志勿紉按紉當作紐字于氏改姓于魏書新安公于栗磾生洛㧞尚書令生烈勁天恩烈勁殿中尚書中書令案北魏書洛㧞六子烈敦果勁洎天㤙烈殿中尚書勁定州刺史此以烈勁為一人悮天㤙生曾尚書生提按北魏書天㤙生仁仁生子安子安生子提子提生謹與此不合京兆提生謹從西魏孝武帝入闗周文帝下令應從入闗并為京兆長安人太師柱國燕文公生實翼義智紹弼簡按唐世系表燕文公九子實翼義智紹弼簡禮廣此闕二人實周司空固安公按唐世系表固安公當作燕安公號蘭陵院生顗仲文惲象賢顗隋黔州總管生䖍按唐世系表䖍作世䖍哲䖍生儉左屯衞將軍哲亳州刺史仲文隋右翊按翊下脱衞字大將軍延夀公生禮部侍郎敏直按唐世系表仲文生欽明欽明生敏同敏直敏同生經野敏直生光運此脱相州刺史生光運滁州刺史惲孫敬之復州刺史象賢隋黔昌公生德基德威按世系表德威作德成徳行徳方徳基生素倉部郎中徳威生元範敬同案唐世系表敬同乃仲文之孫欽明之子元範安州司功生汪汪生公胄庭順庭誨庭謂可封公胄生頵䪻庭誨生顒天興令顒生畛庭謂生頎頴按頴下疑脱頲字頎工部尚書太子少保生申廣翬申屯田員外頲生富平令按唐世系表頲生當吉州刺史瓊按瓊當係德基德威軰孫今姓篹脱其所自生䪹頔䪹户部郎中按唐世系表作户部侍郎頔左僕射司空平章事燕公生正方敏季友季友駙馬殿中少監可封國子司業敬同生安仁江州刺史德行恒州刺史生元徹思言元徹滄州刺史思言兵部郎中太府卿徳方越州刺史㑹昌男翼周常山公隋太尉生璽按唐世系表璽下脫銓一人筠璽江陵總管黎陽公孫元嗣右金吾將軍銓按銓吏部下大夫常山公原誤作詮今從世系表曾孫瑾駕部郎中筠太僕卿元孫抱誠成州刺史生邵郢邵禮部侍郎太子賔客生按唐世系表尚有汝鍚訢誠三人此脱允躬臯謩人聞按唐世系表允躬作尹躬人聞作人文允躬中書舍人洋州刺史臯謩户部侍郎人聞生德孫晦案唐世系表徳晦乃郢之孫寮師之子郢衛尉少卿生寮師雍來義隋潼州總管建平公生宜道按世系表作宣道宣敏無亮字宣敏生志寧又按唐書志寜傳父宣道隋内史舍人世系表悮以志寕為宣敏子今從本傳改宣此作宜亦異亮宜道生永寧志寧保寧永寧商州刺史生遂古隰州刺史志寧左僕射太子太師燕公生立政慎言立政吏部郎中太僕少卿生游藝辯機光遠大猷游藝生伯獻凉州都督辯機揚州長史左庶子常絳二州刺史光逺職方郎中大猷隨州刺史慎言生安貞吳興令安貞生仙鼎黙成仙鼎泌州刺史黙成沛令黙成生嘉祥休徴休烈烈太常卿工部尚書東海公生益肅益諫議大夫肅給事中肅生敖監察御史敖生球珪環按唐世系表環下尚有琄此脱琮保寧生丞範丞慶丞範平州刺史曽孫結諫議大夫生亮亮生貴寧按貴寧與六世祖同名寧似有悮主客員外郎平昌公生禮周趙州刺史安平公禮周生武乾倉部郎中禮少子按此處脱名周華陽公孫德秀彭州刺史提次子彪豐川公生寛隋右武將軍清河公孫仁表兵部員外江陵狀稱定國之後自東海徙焉唐延州刺史子俊生惟謙兵部侍郎平章事生光宰光弼光嗣光宰都官郎中姪光偉光業光進齊郡厯城唐屯田郎中于利貞状云夲出東海長安唐右武候大將軍于伯億狀云于禁之後居京兆長安知機太僕少卿懐徳公須風俗通太昊風姓須之後有須句國又殷有宻須國為氏魏有須賈平陸侯須無紹傳封四代愚愚公之後今無聞禺禺強之後出姓苑芻牛衰食芻按牛哀見淮南子此作衰恐悮改姓芻氏見姓苑毋音無毌邱氏或為毌氏開元右補闕毌煛洛陽人一云吳人案急就章毌煛作毌景巫風俗通云氏於事巫乙匠陶也殷有巫咸巫賢漢有冀州刺史巫㨗又有巫都著養性經瞿音渠晉東海王越參軍瞿莊博陵人殳尚書殳斨舜臣名咎繇所譲共六人南朝嘉興殳季真符魯頃公孫公雅為秦符璽令因為氏琅邪漢有陳留相符季真元孫表後漢齊郡太守光禄大夫符融苻前秦主苻健本以有扈氏之後為啓所滅奔西戎代為酋本姓蒲蒲洪以孫堅背上有草付文改為苻武都按蒲洪略陽臨渭氐人子苻健晉永和七年僣位都長安武都二字有脱文苻堅生丕堅孫登僣號長安自健至登五代為姚興所滅後周㐮州刺史龍居公苻猛臨渭人元孫遷敵唐金州刺史苻子珪弟太子舍人璋臾音俞顓臾風姓之後晉大夫臾駢俞又吐淄反前趙劉聦中常侍俞容天后時俞文俊江陵人按列子有俞氏以醫著扶漢有廷尉扶嘉河南官氏志云乞扶氏改為扶俱南凉有鎮北將軍俱延開元國學士俱匡辟朱顓頊之後周封曹挾於邾為楚所滅子孫去邑以為氏一云舜臣朱彪之後齊有朱毛漢中邑侯朱進鄢陵侯朱濞吳郡漢功臣有都昌侯朱軫至買臣㑹稽太守呉有將軍朱桓生異唐諫議大夫朱子奢云異之後錢塘漢槐里侯朱雲之後八代孫至賔後漢光禄勲始居錢塘為著姓十代孫遜之齊吳平令生梁領軍朱异异曽孫延慶唐倉部郎中也沛國相縣今有朱氏自云丹朱之後以王父名其後永城譙郡唐正議大夫平章事朱敬則工部侍郎義陽漢有朱穆晉有朱序序孫循之也丹陽後漢司空朱浮晉有朱齡右中書舍人朱巨川生宿右拾遺宿生賀大康後漢朱岑唐駕部郎中前疑其後也河南官氏志渇燭渾可朱渾氏並改為朱氏虞邱晉大夫虞邱書楚莊相虞邱子薦孫叔敖自代趙郡説苑云漢光禄大夫虞邱夀王漢書作吾邱巫馬史記巫馬施字子期魯人也仲尼弟子巫咸姬姓臯陶氏之後其國今舒州人案其國今舒州人六字當有脱誤巫臣晉大夫欒巫臣之後案申公巫臣奔晉巫臣楚屈蕩之子屈申也晉無欒巫臣無婁莒大夫無婁務胡之後又無婁先生著書琅邪今琅邪有此姓無圉公羊楚大夫無圉之後無鈎潜夫論楚蚠冐生薳章為王子無鈎氏無弋秦厲公時羌人無弋爰劔之後今隴西人毋將見姓苑東海蘭陵漢南郡太守毋將隆本京兆尹執金吾又毋將衣明易為豫章太守毋終左傳毋終子喜父翟國君也因氏焉案左傳作無終須遂左傳遂國在齊北有須遂氏須肑須肑楚賢人著書須卜改為卜氏厨人周禮厨人因官為氏案周禮無此官厨人濮見左傳邾婁公羊邾婁子曹姓也子孫以國為氏夫餘風俗通吳公子夫槩王奔楚餘子在吳者因以為氏焉百濟國王夫餘寛生璋號帶方郡王生義慈大唐拜帶方郡王金紫光禄大夫貞觀入朝生隆熊州都督隆生文宣司膳卿左衞大將軍樂浪郡公元和姓纂卷二}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-36b, image: WYG0890/WYG0890-0551b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-37a, image: WYG0890/WYG0890-0551c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-37b, image: WYG0890/WYG0890-0551d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-38a, image: WYG0890/WYG0890-0552a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-38b, image: WYG0890/WYG0890-0552b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-39a, image: WYG0890/WYG0890-0552c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-39b, image: WYG0890/WYG0890-0552d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-40a, image: WYG0890/WYG0890-0553a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-40b, image: WYG0890/WYG0890-0553b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-41a, image: WYG0890/WYG0890-0553c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-41b, image: WYG0890/WYG0890-0553d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-42a, image: WYG0890/WYG0890-0554a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-42b, image: WYG0890/WYG0890-0554b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-43a, image: WYG0890/WYG0890-0554c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-43b, image: WYG0890/WYG0890-0554d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-44a, image: WYG0890/WYG0890-0555a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-44b, image: WYG0890/WYG0890-0555b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-45a, image: WYG0890/WYG0890-0555c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-45b, image: WYG0890/WYG0890-0555d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-46a, image: WYG0890/WYG0890-0556a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-46b, image: WYG0890/WYG0890-0556b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-47a, image: WYG0890/WYG0890-0556c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-47b, image: WYG0890/WYG0890-0556d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-48a, image: WYG0890/WYG0890-0557a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-48b, image: WYG0890/WYG0890-0557b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-49a, image: WYG0890/WYG0890-0557c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-49b, image: WYG0890/WYG0890-0557d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-50a, image: WYG0890/WYG0890-0558a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-50b, image: WYG0890/WYG0890-0558b.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-51a, image: WYG0890/WYG0890-0558c.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-51b, image: WYG0890/WYG0890-0558d.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-52a, image: WYG0890/WYG0890-0559a.png}
+  - {type: page-break, offset: 908, content: '', id: KR3k0007_WYG_002-52b, image: WYG0890/WYG0890-0559b.png}
+  - {type: variant, offset: 908, length: 3, content: 星衍撰, krp: 㽞傅巖者為傅餘氏然則餘之所出傅與韓未可定也前燕有餘元餘和並鮮卑種類案北史百濟王姓餘氏輿自云周大夫伯輿之後以王父字為氏河南官氏志莫輿氏改為輿氏後魏有輿珍見賀㧞勝傳胥晉大夫胥臣之後有胥克胥梁胥帶胥午胥童瑯琊姓苑云瑯琊有胥氏䟽東海漢太子太傅䟽廣廣兄子受世為太傅樗史記秦國相樗里子之後名疾儲後漢儲太伯又富人儲姥王莽亂以五百人㨿大庾嶺開元汜水尉儲光羲潤州人生石石生燕客燕客生嗣宗校書郎生隐檢校郎中如桓譚新論有通人如子禮漢書長安富人如氏也馮翊魏陳郡如淳注漢書河南官氏志如羅氏改為如大歴有右羽林將軍如元擢沮音葅黄帝史官沮誦之後廣平魏志袁尚謀臣沮授前燕中常侍沮皓魚孫風俗通宋大夫魚石奔楚在國者因氏焉北海漢有魚孫登仕北海相孫静琅琊相生欽有孝行曽孫晦北海太守後漢宏農太守魚孫和生瑜魏雍州刺史瑜生瑋晉濟南太守下邳太守生平原太守生􅂒清河太守生邈之居京兆口東莞太守案此條有脱文諸葛諸葛氏夏殷侯國葛伯之後英賢傳云舊居琅琊諸縣後徙陽都先有詹葛時人謂之諸葛氏因氏焉風俗通云葛伯嬰為陳渉將軍有功非罪而誅漢文追封子孫為諸縣侯因以為氏世本云有熊氏之後為詹葛氏齊人語訛以詹葛為諸葛氏案孔平仲雜記諸葛氏以諸縣之葛徙陽都因加諸字以别於陽都葛氏琅邪陽都縣漢司𨽻校尉諸葛豐裔孫圭後漢太山郡丞生瑾亮瑾吳大將軍左都䕶宛陵侯生恪喬恪中書令揚州牧喬生攀翊武將軍生顥徙河東亮蜀丞相武鄉侯生瞻蜀尚書僕射瞻生京晉江州刺史與顥並徙河東亮族弟誕魏司空兖州刺史生靚奔吳為大司馬靚生恢東晉左僕射尚書令生甝梁有陵零太守諸葛銓居丹陽生頴北齊太子舍人隋著作郎頴生㑹唐有諸葛荗道諸梁楚文子食邑諸梁因氏焉閭邱世本齊閭邱産生嬰嬰生歐歐生莖莖生施齊郡左傳嬰明及閭邱息並齊宣王時閭邱卬閭邱光漢有廷尉閭邱􅈴漢太常閭邱遵有閭邱决著書十二篇晉有太常閭邱冲南陽太守閭邱羨土又家漢州沮渠本臨松盧水人先為匈奴官號沮渠因氏焉吳有沮渠萬為張掖王晉末沮渠蒙遜僣稱西河王號凉都張掖二主三十九年為後魏所滅渠邱風俗通莒有渠邱公因氏焉彭城英賢傳云彭城有渠邱氏焉渠複漢武時屬國酋師渠復累封昆侯傳子絶於陵風俗通云陳仲子齊世家也辭爵灌園於於陵子孫氏焉於邱其先家於邱因氏焉漢有宛句人於邱略舒鮑世本偃姓國也晉悼公子舒鮑無終舒堅濳夫論楚公族有舒堅文叔為大夫舒鳩左傳少昊氏官名國于濟北以國氏焉按舒鳩楚屬國左傳少皡五鳩氏無舒鳩悮余邱齊公族食采余邱因氏焉漢有侍御史余邱炳又隠士余邱靈居曲河茹茹其先蠕茹茹種類為突厥所破歸中國後魏蔚州刺史髙平公茹茹敦思周寧州刺史洋公生師寳海賔師寳隋騎大將軍安次公生盛夀海賔唐右屯衞大將軍樗里見英賢傳濟南晉有樗里璠著春秋土地記三卷徐吾左傳鄭大夫徐吾犯之後徐盧漢景帝時匈奴徐盧庸來降如嵇改為綾氏案魏官氏志作緩氏此悮十虞虞虞有天下號曰虞子商均因以為氏又武王封虞仲於河東亦為虞氏㑹稽餘姚人趙相虞卿秦有虞香香十四代孫意自東郡徙餘姚五代孫歆歆生翻翻曽孫驤驤七代孫荔荔子世南唐秦府學士秘書監永興公生昶工部侍郎生茂世孫遜郎中歴沔州刺史云荔之後濟陽狀云逸人虞仲之後靈武廻樂狀云本自㑹稽徙焉後周有沁源公虞詳生慶則隋右僕射魯公孫操唐長江令于周武王第二子邘叔子孫以國為氏後去邑為于案淳于氏唐避憲宗諱亦為于氏東海漢有于公生丞相西平公定國生永御史大夫魏有將軍于禁唐中書舍人于季子今居齊郡歴城姪儒卿河南洛陽後魏書官氏志勿紉按紉當作紐字于氏改姓于魏書新安公于栗磾生洛㧞尚書令生烈勁天恩烈勁殿中尚書中書令案北魏書洛㧞六子烈敦果勁洎天㤙烈殿中尚書勁定州刺史此以烈勁為一人悮天㤙生曾尚書生提按北魏書天㤙生仁仁生子安子安生子提子提生謹與此不合京兆提生謹從西魏孝武帝入闗周文帝下令應從入闗并為京兆長安人太師柱國燕文公生實翼義智紹弼簡按唐世系表燕文公九子實翼義智紹弼簡禮廣此闕二人實周司空固安公按唐世系表固安公當作燕安公號蘭陵院生顗仲文惲象賢顗隋黔州總管生䖍按唐世系表䖍作世䖍哲䖍生儉左屯衞將軍哲亳州刺史仲文隋右翊按翊下脱衞字大將軍延夀公生禮部侍郎敏直按唐世系表仲文生欽明欽明生敏同敏直敏同生經野敏直生光運此脱相州刺史生光運滁州刺史惲孫敬之復州刺史象賢隋黔昌公生德基德威按世系表德威作德成徳行徳方徳基生素倉部郎中徳威生元範敬同案唐世系表敬同乃仲文之孫欽明之子元範安州司功生汪汪生公胄庭順庭誨庭謂可封公胄生頵䪻庭誨生顒天興令顒生畛庭謂生頎頴按頴下疑脱頲字頎工部尚書太子少保生申廣翬申屯田員外頲生富平令按唐世系表頲生當吉州刺史瓊按瓊當係德基德威軰孫今姓篹脱其所自生䪹頔䪹户部郎中按唐世系表作户部侍郎頔左僕射司空平章事燕公生正方敏季友季友駙馬殿中少監可封國子司業敬同生安仁江州刺史德行恒州刺史生元徹思言元徹滄州刺史思言兵部郎中太府卿徳方越州刺史㑹昌男翼周常山公隋太尉生璽按唐世系表璽下脫銓一人筠璽江陵總管黎陽公孫元嗣右金吾將軍銓按銓吏部下大夫常山公原誤作詮今從世系表曾孫瑾駕部郎中筠太僕卿元孫抱誠成州刺史生邵郢邵禮部侍郎太子賔客生按唐世系表尚有汝鍚訢誠三人此脱允躬臯謩人聞按唐世系表允躬作尹躬人聞作人文允躬中書舍人洋州刺史臯謩户部侍郎人聞生德孫晦案唐世系表徳晦乃郢之孫寮師之子郢衛尉少卿生寮師雍來義隋潼州總管建平公生宜道按世系表作宣道宣敏無亮字宣敏生志寧又按唐書志寜傳父宣道隋内史舍人世系表悮以志寕為宣敏子今從本傳改宣此作宜亦異亮宜道生永寧志寧保寧永寧商州刺史生遂古隰州刺史志寧左僕射太子太師燕公生立政慎言立政吏部郎中太僕少卿生游藝辯機光遠大猷游藝生伯獻凉州都督辯機揚州長史左庶子常絳二州刺史光逺職方郎中大猷隨州刺史慎言生安貞吳興令安貞生仙鼎黙成仙鼎泌州刺史黙成沛令黙成生嘉祥休徴休烈烈太常卿工部尚書東海公生益肅益諫議大夫肅給事中肅生敖監察御史敖生球珪環按唐世系表環下尚有琄此脱琮保寧生丞範丞慶丞範平州刺史曽孫結諫議大夫生亮亮生貴寧按貴寧與六世祖同名寧似有悮主客員外郎平昌公生禮周趙州刺史安平公禮周生武乾倉部郎中禮少子按此處脱名周華陽公孫德秀彭州刺史提次子彪豐川公生寛隋右武將軍清河公孫仁表兵部員外江陵狀稱定國之後自東海徙焉唐延州刺史子俊生惟謙兵部侍郎平章事生光宰光弼光嗣光宰都官郎中姪光偉光業光進齊郡厯城唐屯田郎中于利貞状云夲出東海長安唐右武候大將軍于伯億狀云于禁之後居京兆長安知機太僕少卿懐徳公須風俗通太昊風姓須之後有須句國又殷有宻須國為氏魏有須賈平陸侯須無紹傳封四代愚愚公之後今無聞禺禺強之後出姓苑芻牛衰食芻按牛哀見淮南子此作衰恐悮改姓芻氏見姓苑毋音無毌邱氏或為毌氏開元右補闕毌煛洛陽人一云吳人案急就章毌煛作毌景巫風俗通云氏於事巫乙匠陶也殷有巫咸巫賢漢有冀州刺史巫㨗又有巫都著養性經瞿音渠晉東海王越參軍瞿莊博陵人殳尚書殳斨舜臣名咎繇所譲共六人南朝嘉興殳季真符魯頃公孫公雅為秦符璽令因為氏琅邪漢有陳留相符季真元孫表後漢齊郡太守光禄大夫符融苻前秦主苻健本以有扈氏之後為啓所滅奔西戎代為酋本姓蒲蒲洪以孫堅背上有草付文改為苻武都按蒲洪略陽臨渭氐人子苻健晉永和七年僣位都長安武都二字有脱文苻堅生丕堅孫登僣號長安自健至登五代為姚興所滅後周㐮州刺史龍居公苻猛臨渭人元孫遷敵唐金州刺史苻子珪弟太子舍人璋臾音俞顓臾風姓之後晉大夫臾駢俞又吐淄反前趙劉聦中常侍俞容天后時俞文俊江陵人按列子有俞氏以醫著扶漢有廷尉扶嘉河南官氏志云乞扶氏改為扶俱南凉有鎮北將軍俱延開元國學士俱匡辟朱顓頊之後周封曹挾於邾為楚所滅子孫去邑以為氏一云舜臣朱彪之後齊有朱毛漢中邑侯朱進鄢陵侯朱濞吳郡漢功臣有都昌侯朱軫至買臣㑹稽太守呉有將軍朱桓生異唐諫議大夫朱子奢云異之後錢塘漢槐里侯朱雲之後八代孫至賔後漢光禄勲始居錢塘為著姓十代孫遜之齊吳平令生梁領軍朱异异曽孫延慶唐倉部郎中也沛國相縣今有朱氏自云丹朱之後以王父名其後永城譙郡唐正議大夫平章事朱敬則工部侍郎義陽漢有朱穆晉有朱序序孫循之也丹陽後漢司空朱浮晉有朱齡右中書舍人朱巨川生宿右拾遺宿生賀大康後漢朱岑唐駕部郎中前疑其後也河南官氏志渇燭渾可朱渾氏並改為朱氏虞邱晉大夫虞邱書楚莊相虞邱子薦孫叔敖自代趙郡説苑云漢光禄大夫虞邱夀王漢書作吾邱巫馬史記巫馬施字子期魯人也仲尼弟子巫咸姬姓臯陶氏之後其國今舒州人案其國今舒州人六字當有脱誤巫臣晉大夫欒巫臣之後案申公巫臣奔晉巫臣楚屈蕩之子屈申也晉無欒巫臣無婁莒大夫無婁務胡之後又無婁先生著書琅邪今琅邪有此姓無圉公羊楚大夫無圉之後無鈎潜夫論楚蚠冐生薳章為王子無鈎氏無弋秦厲公時羌人無弋爰劔之後今隴西人毋將見姓苑東海蘭陵漢南郡太守毋將隆本京兆尹執金吾又毋將衣明易為豫章太守毋終左傳毋終子喜父翟國君也因氏焉案左傳作無終須遂左傳遂國在齊北有須遂氏須肑須肑楚賢人著書須卜改為卜氏厨人周禮厨人因官為氏案周禮無此官厨人濮見左傳邾婁公羊邾婁子曹姓也子孫以國為氏夫餘風俗通吳公子夫槩王奔楚餘子在吳者因以為氏焉百濟國王夫餘寛生璋號帶方郡王生義慈大唐拜帶方郡王金紫光禄大夫貞觀入朝生隆熊州都督隆生文宣司膳卿左衞大將軍樂浪郡公元和姓纂卷二}
+  - {type: punctuation, offset: 911, content: 。, id: KR3k0007_CHANT_002-bkkpn196}
+  - {type: xml-element, offset: 911, content: '', id: KR3k0007_CHANT_002-bkkxmlele4}
+  body: []
+  back: []
+hash: sha256:356831464f8ea5eccfb0f2ee07a84c89b51a93e724f57dd12d1f39822976bb92

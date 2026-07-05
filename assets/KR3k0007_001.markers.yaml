@@ -58,7 +58,6 @@ markers:
   - {type: variant, offset: 90, length: 11, content: 不可再也宜召通儒碩士辯, krp: 熙孫子琮四字亦誤疑燕字下有脱文生慈明慈信慈讓慈明生惇怦怦兵部郎中生騫汾州刺史慈明孫慶雅州刺史慈讓生揔擲㨗揔監察御史生元常右丞兵部侍郎元常生光嗣齊州刺史孫令問侍御史思雍刑部郎中㨗生淑祠部郎中京兆状稱宏後隋有兵部尚書馮業生長命唐尚書左丞長命生義宏禮本義宏膳部郎中禮本司農少}
   - {type: punctuation, offset: 94, content: 。, id: KR3k0007_CHANT_001-bkkpn19}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3k0007_CHANT_001-1a.18}
-  - {type: substitution, offset: 100, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: variant, offset: 102, length: 0, content: '', WYG: 本足子昭泰刑部刺史安昌公案張説集括州刺史工部尚書馮昭泰碑曾祖兵部尚書世基此避唐諱作業又曰考仁髙亮無禄故昭泰㓜襲安昌公此作本足子當有訛又攷昭泰嘗官邢州刺史此作刑部亦悮生紹正紹烈紹正少府監紹烈兵部郎中鴻臚卿又銀青光禄}
   - {type: variant, offset: 102, length: 0, content: '', krp: 本足子昭泰刑部刺史安昌公案張説集括州刺史工部尚書馮昭泰碑曾祖兵部尚書世基此避唐諱作業又曰考仁髙亮無禄故昭泰㓜襲安昌公此作本足子當有訛又攷昭泰嘗官邢州刺史此作刑部亦悮生紹正紹烈紹正少府監紹烈兵部郎中鴻臚卿又銀青光禄}
   - {type: variant, offset: 104, length: 23, content: 之族姓者綜修姓纂署之省閣始使條其原系考其郡望子, WYG: 直昭文館紹烈生敦直從祖弟師訓右領軍將軍思訓生嘉勣蓬州刺史少師唐駙馬鴻臚卿青州總管陜東行臺右僕射生文瓚河間監察御史馮師古}
@@ -82,7 +81,6 @@ markers:
   - {type: 'tls:seg', offset: 134, content: '', id: KR3k0007_CHANT_001-1a.25}
   - {type: punctuation, offset: 138, content: ，, id: KR3k0007_CHANT_001-bkkpn27}
   - {type: 'tls:seg', offset: 138, content: '', id: KR3k0007_CHANT_001-1a.26}
-  - {type: substitution, offset: 140, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: punctuation, offset: 142, content: ，, id: KR3k0007_CHANT_001-bkkpn28}
   - {type: 'tls:seg', offset: 142, content: '', id: KR3k0007_CHANT_001-1a.27}
   - {type: punctuation, offset: 148, content: 。, id: KR3k0007_CHANT_001-bkkpn29}
@@ -142,7 +140,6 @@ markers:
   - {type: 'tls:seg', offset: 272, content: '', id: KR3k0007_CHANT_001-2a.12}
   - {type: punctuation, offset: 276, content: ，, id: KR3k0007_CHANT_001-bkkpn55}
   - {type: 'tls:seg', offset: 276, content: '', id: KR3k0007_CHANT_001-2a.13}
-  - {type: substitution, offset: 278, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 284, content: ，, id: KR3k0007_CHANT_001-bkkpn56}
   - {type: 'tls:seg', offset: 284, content: '', id: KR3k0007_CHANT_001-2a.14}
   - {type: punctuation, offset: 291, content: ，, id: KR3k0007_CHANT_001-bkkpn57}
@@ -218,10 +215,8 @@ markers:
   - {type: 'tls:seg', offset: 463, content: '', id: KR3k0007_CHANT_001-2a.43}
   - {type: punctuation, offset: 468, content: ，, id: KR3k0007_CHANT_001-bkkpn90}
   - {type: 'tls:seg', offset: 468, content: '', id: KR3k0007_CHANT_001-2a.44}
-  - {type: substitution, offset: 470, original: 摭, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4100}}
   - {type: punctuation, offset: 472, content: ，, id: KR3k0007_CHANT_001-bkkpn91}
   - {type: 'tls:seg', offset: 472, content: '', id: KR3k0007_CHANT_001-2a.45}
-  - {type: substitution, offset: 473, original: 麤, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1132}}
   - {type: punctuation, offset: 476, content: ，, id: KR3k0007_CHANT_001-bkkpn92}
   - {type: 'tls:seg', offset: 476, content: '', id: KR3k0007_CHANT_001-2a.46}
   - {type: punctuation, offset: 483, content: ，, id: KR3k0007_CHANT_001-bkkpn93}
@@ -306,4 +301,4 @@ markers:
   - {type: xml-element, offset: 571, content: '', id: KR3k0007_CHANT_001-bkkxmlele4}
   body: []
   back: []
-hash: sha256:7c5b2affc9d7c8705d4924e0547b4207158cf3e161efd5573b84b5e16bb5f5ae
+hash: sha256:c969e422e724ceaa577e42cbb50f1aa806b3409f46de0929a1ea28607f8008de

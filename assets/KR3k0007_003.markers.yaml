@@ -41,7 +41,6 @@ markers:
   - {type: punctuation, offset: 43, content: ，, id: KR3k0007_CHANT_003-bkkpn11}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3k0007_CHANT_003-1a.7}
   - {type: punctuation, offset: 47, content: 〈, id: KR3k0007_CHANT_003-bkkpn12}
-  - {type: substitution, offset: 47, original: 蓺, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3239}}
   - {type: punctuation, offset: 50, content: 〉, id: KR3k0007_CHANT_003-bkkpn13}
   - {type: punctuation, offset: 50, content: ，, id: KR3k0007_CHANT_003-bkkpn14}
   - {type: 'tls:seg', offset: 50, content: '', id: KR3k0007_CHANT_003-1a.8}
@@ -79,7 +78,6 @@ markers:
   - {type: 'tls:seg', offset: 131, content: '', id: KR3k0007_CHANT_003-1a.15}
   - {type: punctuation, offset: 135, content: ，, id: KR3k0007_CHANT_003-bkkpn36}
   - {type: 'tls:seg', offset: 135, content: '', id: KR3k0007_CHANT_003-1a.16}
-  - {type: substitution, offset: 137, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 144, content: ，, id: KR3k0007_CHANT_003-bkkpn37}
   - {type: 'tls:seg', offset: 144, content: '', id: KR3k0007_CHANT_003-1a.17}
   - {type: punctuation, offset: 150, content: ，, id: KR3k0007_CHANT_003-bkkpn38}
@@ -121,7 +119,6 @@ markers:
   - {type: 'tls:seg', offset: 225, content: '', id: KR3k0007_CHANT_003-1a.31}
   - {type: punctuation, offset: 232, content: ，, id: KR3k0007_CHANT_003-bkkpn61}
   - {type: 'tls:seg', offset: 232, content: '', id: KR3k0007_CHANT_003-1a.32}
-  - {type: substitution, offset: 238, original: 宂, replacement: 冗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0063}}
   - {type: punctuation, offset: 239, content: ，, id: KR3k0007_CHANT_003-bkkpn62}
   - {type: 'tls:seg', offset: 239, content: '', id: KR3k0007_CHANT_003-1a.33}
   - {type: punctuation, offset: 244, content: ，, id: KR3k0007_CHANT_003-bkkpn63}
@@ -176,7 +173,6 @@ markers:
   - {type: punctuation, offset: 272, content: 》, id: KR3k0007_CHANT_003-bkkpn73}
   - {type: punctuation, offset: 272, content: 、, id: KR3k0007_CHANT_003-bkkpn74}
   - {type: punctuation, offset: 272, content: 《, id: KR3k0007_CHANT_003-bkkpn75}
-  - {type: substitution, offset: 275, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 276, content: 》, id: KR3k0007_CHANT_003-bkkpn76}
   - {type: variant, offset: 277, length: 4, content: 及百家譜, WYG: 地為姓屠羊韓詩内傳楚大夫屠羊説按此又以屠羊爲複姓與前屠姓註自相矛盾屠住}
   - {type: variant, offset: 277, length: 4, content: 及百家譜, krp: 地為姓屠羊韓詩内傳楚大夫屠羊説按此又以屠羊爲複姓與前屠姓註自相矛盾屠住}
@@ -225,7 +221,6 @@ markers:
   - {type: 'tls:seg', offset: 295, content: '', id: KR3k0007_CHANT_003-1a.40}
   - {type: punctuation, offset: 299, content: ，, id: KR3k0007_CHANT_003-bkkpn87}
   - {type: 'tls:seg', offset: 299, content: '', id: KR3k0007_CHANT_003-1a.41}
-  - {type: substitution, offset: 301, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: punctuation, offset: 303, content: 。, id: KR3k0007_CHANT_003-bkkpn88}
   - {type: 'tls:seg', offset: 303, content: '', id: KR3k0007_CHANT_003-1a.42}
   - {type: variant, offset: 308, length: 1, content: 人, WYG: 忠州刺史豫章王叔英生宏徽宏曽孫履華州夔州刺史案唐}
@@ -258,7 +253,6 @@ markers:
   - {type: page-break, offset: 320, content: '', id: KR3k0007_WYG_003-23b, image: WYG0890/WYG0890-0571d.png}
   - {type: page-break, offset: 320, content: '', id: KR3k0007_WYG_003-24a, image: WYG0890/WYG0890-0572a.png}
   - {type: variant, offset: 320, length: 1, content: 蓺, krp: 泉州刺史龍川公陳賀畧端州首領也秦顓頊嬴姓秦後伯益裔孫非子周孝王封之秦隴西秦亭是也至始皇滅六國子嬰降漢子孫以國為氏又魯有秦堇父生丕兹及秦祖秦冉秦非並仲尼弟子漢有潁川太守秦彭太原状稱晉太常博士秦秀之後裔孫生行其行師行其渭州刺史曽孫守庫部郎中同州刺史生昌舜行師右監門大将軍生無害桂州都督安南公也齊郡状稱秦彭之後裔孫瑶之曾孫景通通子曄並太子洗馬崇賢學士鄜州洛川縣唐𤓰州刺史秦孝言状云彭後生懷洛相如懷洛兵部郎中相如吏部郎中河内武徳状云彭後唐金部郎中叔恂生善丕都官員外郎辛姒姓夏后啟别封支子於莘莘辛相近遂為辛氏左傳周太史辛甲案劉向别録云辛甲故殷之臣事紂去至周文王以為公卿而封其長子漢藝}
-  - {type: substitution, offset: 320, original: 蓺, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3239}}
   - {type: variant, offset: 323, length: 3, content: 譜牒類, WYG: 道家有辛甲二十九篇又左傳有辛甲為太史命百官箴王闕者是也辛伯辛俞美為昭王友秦有将軍辛騰家中山苦陘曽孫蒲漢有辛武賢隴西狄道辛蒲以名家漢初徙隴西至破羌将軍武賢生慶忌左将軍光禄大夫常樂公五代孫孟興二子恩殷恩生子焉子焉生寅裕元孫顔生猷懿猷孫巨明後魏侍中生顯崇雍州刺史顯崇生元忠慶之元忠青州刺史平陽伯生廸隋龍州刺史廸生徳本唐黄州刺史平桑公慶之周度支尚書秘書監曽孫源案唐世系表源作道源監察御史生思禮邵州刺史風元孫義感駕部郎中懿生宗宗生安國季超安國曽孫慤北齊都官尚書生文粲鳳州刺史季超孫豁生昻政寛昻周潼州總管繁昌公政生肇肇生茂将右丞侍中茂将生希業駕部郎中寛生諝中書舍人寅孫晏次子遷六代孫彦隋禮部尚書任城公孫處儉處仁處元處儉中允處仁生曜卿侍御史處元屯田郎中裕五代孫晁生敬宗闡季恭敬宗曽孫術北齊吏部尚書生衡虞案唐世系表衡虞作衡卿唐太常丞衡虞生郁禮部侍郎敬宗次子靈寳曽孫公義隋司𨽻大夫生亮融亮唐侍御史融户部員外郎闡元孫寳剛生興暠興生澄良澄生元慶元同元慶生怡諌職方員外郎夀州刺史元同户部員外郎良禮部侍郎生元道比部郎中元道生廣嗣長儒廣嗣禮部侍郎生恒晉長儒都官郎中生咸暠曽孫利涉度支員外郎季恭曽孫􅉷生懸君昌懸生崇堦施州刺史君昌魏州刺史生崇禮工部郎中崇敏兵部郎中崇禮生道瓘度支郎中殷十代孫子馥生徳源北齊中書舍人聘陳使隋蜀王諮議孫元馭刑部郎中孫烈庫部員外郎子焉少子胥十四代孫義元唐洛州司兵曽孫如璿遂昌令生秘汝州刺史殷孫普後晉有侍郎勉七代孫西魏五原公元孫瑜唐将作丞胥十代孫纂後魏西荆州刺史弟蕃生子璣工部侍郎子璣生徳璉唐隰州溫泉丞天寳進士辛平生惲殿中侍御史大厯都官郎中辛昇之訪未獲周河中總管宿國公辛威居抱罕稱慶忌後孫宏亮右武衛大将軍堂弟有道秘書郎唐右監門将軍辛萬福状云與良同承晉侍中奭福孫知㣲光禄少卿後魏扶風太守辛明状云慶忌之後曽孫文陵左武大将軍并洛二州長史長山公孫嗣本左領将軍弟光嗣温恭本生昱通事舍人本姪巢父果州刺史生本姪萬年縣丞案此有脱悞金城左衛郎中辛養代居蘭州金城状慶忌後生懷節懷節生言都水使者言生雲京雲果雲晁京昇雲京大原尹河東節度檢校右僕射平章事金城郡王生浩液溶秘興州刺史雲果湖南觀察兼御史大夫生晟太子中允雲晁京昇並開府藍田唐庫部員外郎辛承業天水周有項亶賜姓辛氏生偃武唐洺州刺史生義同屯田郎中甄虞舜陶甄河濱因以為氏或音堅漢末太保為中山著姓案漢有太保甄邯生豐為司徒此太保下脱邯名唐廬陵令案此有脱悮中山無極邯六代孫逸後漢上蔡令女為魏文帝皇后生明帝後追封安城侯逸子嚴案魏志嚴作儼孫暢暢生紹紹生述六代孫元成梁吏部尚書生詡詡曽孫懐素唐廬陵令邯裔孫頴頴元孫霞北齊将作大匠曽孫元度唐常州長史頴孫凝凝生琛後魏吏部尚書元孫善濟北稱邯後自中山徙焉至鴻為扶溝令又居許州生權立言權有文學隋朝散大夫立言員外散騎常侍河南官氏志郁原甄氏改為甄氏申姜姓炎帝四嶽之後封於申號申伯周宣王元舅也時有申公巫臣申包胥申亥韓有申不害著漢書案阮孝緒七略不害著申子三篇此漢書字誤漢有申廵石趙有申鍾為司徒魏郡申鍾後為著姓裔孫徽後周北海公生靖郴國公生寧唐考功員外郎丹陽状稱申不害之後陳有南徐州申禺禺八代孫堂搆唐虞部員外生稷仁姓苑云彭城人神風俗通云神農氏之後漢有騎都尉神曜琅琊姓苑云今琅琊有神氏新出自荀氏新稚穆子之後别為新氏堇魯大夫堇父之後生丕兹賓左傳齊大夫賓湏無周賓起為王子朝傅頻風俗通云漢有酒泉太守頻暢邠周太王居邠支孫氏焉茵姓苑云人姓申屠周幽王后申氏兄申侯之後支孫居安定屠原因以為氏一説云申徒狄夏賢人後音轉改為申屠氏或云申屠楚官號也梁國漢丞相故安侯申屠嘉扶風茂陵人七代孫剛後漢太中大夫尚書令陳留後漢徴士申屠蟠字子龍地官郎中秘書少監申屠㻛申徒風俗通云本申屠氏隨音改為申徒尸子云狄夏賢也湯以天下讓狄以不義聞已自投於河莊子申徒嘉兀者鄭人也漢有西屏将軍申徒建申鮮左傳齊有申鮮虞漢有中謁者申鮮洫辛相英賢傳楚大夫辛相之後漢有河間相辛相通賓牟禮記魯有賓牟賈孔子時人十八諄荀周文王第}
   - {type: page-break, offset: 323, content: '', id: KR3k0007_WYG_003-24b, image: WYG0890/WYG0890-0572b.png}
   - {type: page-break, offset: 323, content: '', id: KR3k0007_WYG_003-25a, image: WYG0890/WYG0890-0572c.png}
@@ -339,7 +333,6 @@ markers:
   - {type: punctuation, offset: 395, content: 》, id: KR3k0007_CHANT_003-bkkpn109}
   - {type: punctuation, offset: 400, content: ，, id: KR3k0007_CHANT_003-bkkpn110}
   - {type: 'tls:seg', offset: 400, content: '', id: KR3k0007_CHANT_003-1a.55}
-  - {type: substitution, offset: 400, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: punctuation, offset: 413, content: ，, id: KR3k0007_CHANT_003-bkkpn111}
   - {type: 'tls:seg', offset: 413, content: '', id: KR3k0007_CHANT_003-1a.56}
   - {type: punctuation, offset: 418, content: ，, id: KR3k0007_CHANT_003-bkkpn112}
@@ -354,4 +347,4 @@ markers:
   - {type: xml-element, offset: 450, content: '', id: KR3k0007_CHANT_003-bkkxmlele2}
   body: []
   back: []
-hash: sha256:1bf86053d747680e6ae353c1a86ba3e0ea6d2ba10923d2768067a22b7ca6304a
+hash: sha256:5a422e1551765eaff830674d7ceb6056a2d3586db497073e511e42eecab783ea

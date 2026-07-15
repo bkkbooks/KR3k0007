@@ -97,6 +97,7 @@ markers:
   - {type: variant, offset: 159, length: 2, content: 顯慶, krp: 考功郎}
   - {type: variant, offset: 162, length: 65, content: 詔呂才等撰姓氏錄開元中柳沖又改修其書天寶中李林甫亦撰天下郡望姓氏族譜林氏作書時當得見之其體例亦如元和郡縣志不載出典惟僻姓一二引姓苑, WYG: 枝逸文馬邑後魏有枝夸皮}
   - {type: variant, offset: 162, length: 65, content: 詔呂才等撰姓氏錄開元中柳沖又改修其書天寶中李林甫亦撰天下郡望姓氏族譜林氏作書時當得見之其體例亦如元和郡縣志不載出典惟僻姓一二引姓苑, krp: 枝逸文馬邑後魏有枝夸皮}
+  - {type: substitution, offset: 169, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 170, content: ，, id: KR3k0007_CHANT_002-bkkpn42}
   - {type: 'tls:seg', offset: 170, content: '', id: KR3k0007_CHANT_002-1a.21}
   - {type: punctuation, offset: 180, content: ，, id: KR3k0007_CHANT_002-bkkpn43}
@@ -138,13 +139,16 @@ markers:
   - {type: punctuation, offset: 231, content: 《, id: KR3k0007_CHANT_002-bkkpn57}
   - {type: variant, offset: 231, length: 29, content: 新說閒引當時家狀耳其書宋時尚存據書錄解題云在莆田以數本參校, WYG: 急就萹俱作晉大夫㔻鄭父子豹之}
   - {type: variant, offset: 231, length: 29, content: 新說閒引當時家狀耳其書宋時尚存據書錄解題云在莆田以數本參校, krp: 急就萹俱作晉大夫㔻鄭父子豹之}
+  - {type: substitution, offset: 232, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 233, content: 》, id: KR3k0007_CHANT_002-bkkpn58}
   - {type: punctuation, offset: 233, content: ；, id: KR3k0007_CHANT_002-bkkpn59}
   - {type: 'tls:seg', offset: 233, content: '', id: KR3k0007_CHANT_002-1a.29}
+  - {type: substitution, offset: 233, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 240, content: 。, id: KR3k0007_CHANT_002-bkkpn60}
   - {type: 'tls:seg', offset: 240, content: '', id: KR3k0007_CHANT_002-1a.30}
   - {type: punctuation, offset: 246, content: ，, id: KR3k0007_CHANT_002-bkkpn61}
   - {type: 'tls:seg', offset: 246, content: '', id: KR3k0007_CHANT_002-1a.31}
+  - {type: substitution, offset: 248, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 252, content: ，, id: KR3k0007_CHANT_002-bkkpn62}
   - {type: 'tls:seg', offset: 252, content: '', id: KR3k0007_CHANT_002-1a.32}
   - {type: punctuation, offset: 260, content: ，, id: KR3k0007_CHANT_002-bkkpn63}
@@ -167,6 +171,7 @@ markers:
   - {type: 'tls:seg', offset: 292, content: '', id: KR3k0007_CHANT_002-1a.38}
   - {type: punctuation, offset: 298, content: ，, id: KR3k0007_CHANT_002-bkkpn70}
   - {type: 'tls:seg', offset: 298, content: '', id: KR3k0007_CHANT_002-1a.39}
+  - {type: substitution, offset: 303, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 305, content: 。, id: KR3k0007_CHANT_002-bkkpn71}
   - {type: 'tls:seg', offset: 305, content: '', id: KR3k0007_CHANT_002-1a.40}
   - {type: variant, offset: 310, length: 5, content: 纂為王涯撰, WYG: ''}
@@ -176,6 +181,7 @@ markers:
   - {type: variant, offset: 316, length: 32, content: 書有王涯序錄言之涯序稱相國趙國公創立綱紀區分異同以授博聞強識之士, WYG: 官氏焉河南後魏徐州刺史}
   - {type: variant, offset: 316, length: 32, content: 書有王涯序錄言之涯序稱相國趙國公創立綱紀區分異同以授博聞強識之士, krp: 官氏焉河南後魏徐州刺史}
   - {type: punctuation, offset: 320, content: 《, id: KR3k0007_CHANT_002-bkkpn73}
+  - {type: substitution, offset: 321, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 322, content: 》, id: KR3k0007_CHANT_002-bkkpn74}
   - {type: punctuation, offset: 324, content: 。, id: KR3k0007_CHANT_002-bkkpn75}
   - {type: 'tls:seg', offset: 324, content: '', id: KR3k0007_CHANT_002-1a.42}
@@ -193,6 +199,7 @@ markers:
   - {type: variant, offset: 354, length: 3, content: 錄解題, WYG: 見孟子新論有時農鉅鹿魏有夀春令時苗後趙有謁者僕射時軌姓苑云並鉅鹿人也陳留唐登州刺史時德叡世居汴州尉氏曾孫元佐潁州刺史怡本姓墨台孤竹君之後因避事改焉後魏有怡寛遼西人生峯後周樂陵公生昂鄀公光清河公旗風俗通楚大夫居旗思城因}
   - {type: page-break, offset: 354, content: '', id: KR3k0007_WYG_002-11a, image: WYG0890/WYG0890-0538c.png}
   - {type: variant, offset: 354, length: 3, content: 錄解題, krp: 見孟子新論有時農鉅鹿魏有夀春令時苗後趙有謁者僕射時軌姓苑云並鉅鹿人也陳留唐登州刺史時德叡世居汴州尉氏曾孫元佐潁州刺史怡本姓墨台孤竹君之後因避事改焉後魏有怡寛遼西人生峯後周樂陵公生昂鄀公光清河公旗風俗通楚大夫居旗思城因}
+  - {type: substitution, offset: 354, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: variant, offset: 359, length: 1, content: 宰, WYG: 氏蘄漢有宏農太守蘄良姓苑云蘄春侯之後狸左傳八元季狸之後菑音緇見姓苑北海孔融集菑莊青州人治出何氏纂文要音遲蚩蚩尤之後以國為姓慈髙陽氏才子之後羙其宣慈恵和因以為姓司馬重黎之後唐虞夏商代掌天地周宣王時裔孫程伯休父為司馬克平徐方錫以官在趙者曰凱以傳劔知名蒯瞶其後也在秦者司馬錯元孫昌生懌懌生善案史記太史公自序及漢書本傳俱作昌生毋懌毋懌生喜此悞善生談太史公生遷漢中書令河内溫縣蒯瞶元孫卭為趙將封武信君案司馬卭為趙武臣將武臣封武信君此作卭封武信君悞項羽封卭為殷王漢以其地為河内郡子孫家焉孫楷漢武都太守孫鈞後漢征西將軍曾孫防京兆尹生郎懿孚馗七代孫楚之後魏封琅邪王馗六代孫叔璠後魏冠軍將軍汝南王亮五代孫景之後魏蒼梧公琅邪冠軍蒼梧號三祖司馬氏琅邪王楚之即彭城王懽六代孫也楚之曾孫裔裔曾孫元祚唐庫部郎中生希奭希象希奭明堂尉生鍠銓鈇鍠吏部黄門中書三侍郎京兆尹生蒼錘益錘魏郡太守銓庫部郎中生望希象生爵郎中元祚再從子承禎字子益天台道士有髙行元祚四從子仁節大理評事生晧曜曜曹州刺史蒼梧公景之七代孫思溫唐左衞長史冠軍房子孫無聞亮生南頓王宋過江今號江南司馬氏宗八代孫宅}
   - {type: page-break, offset: 359, content: '', id: KR3k0007_WYG_002-11b, image: WYG0890/WYG0890-0538d.png}
   - {type: page-break, offset: 359, content: '', id: KR3k0007_WYG_002-12a, image: WYG0890/WYG0890-0539a.png}
@@ -246,6 +253,7 @@ markers:
   - {type: punctuation, offset: 433, content: 。, id: KR3k0007_CHANT_002-bkkpn93}
   - {type: 'tls:seg', offset: 433, content: '', id: KR3k0007_CHANT_002-1a.55}
   - {type: punctuation, offset: 441, content: 《, id: KR3k0007_CHANT_002-bkkpn94}
+  - {type: substitution, offset: 442, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 445, content: 》, id: KR3k0007_CHANT_002-bkkpn95}
   - {type: punctuation, offset: 451, content: ，, id: KR3k0007_CHANT_002-bkkpn96}
   - {type: 'tls:seg', offset: 451, content: '', id: KR3k0007_CHANT_002-1a.56}
@@ -260,6 +268,7 @@ markers:
   - {type: punctuation, offset: 469, content: 》, id: KR3k0007_CHANT_002-bkkpn100}
   - {type: punctuation, offset: 473, content: ，, id: KR3k0007_CHANT_002-bkkpn101}
   - {type: 'tls:seg', offset: 473, content: '', id: KR3k0007_CHANT_002-1a.59}
+  - {type: substitution, offset: 479, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 483, content: ，, id: KR3k0007_CHANT_002-bkkpn102}
   - {type: 'tls:seg', offset: 483, content: '', id: KR3k0007_CHANT_002-1a.60}
   - {type: punctuation, offset: 487, content: 。, id: KR3k0007_CHANT_002-bkkpn103}
@@ -293,6 +302,7 @@ markers:
   - {type: punctuation, offset: 566, content: 。, id: KR3k0007_CHANT_002-bkkpn118}
   - {type: 'tls:seg', offset: 566, content: '', id: KR3k0007_CHANT_002-1a.74}
   - {type: punctuation, offset: 571, content: 、, id: KR3k0007_CHANT_002-bkkpn119}
+  - {type: substitution, offset: 573, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20156}}
   - {type: punctuation, offset: 579, content: ，, id: KR3k0007_CHANT_002-bkkpn120}
   - {type: 'tls:seg', offset: 579, content: '', id: KR3k0007_CHANT_002-1a.75}
   - {type: punctuation, offset: 585, content: ，, id: KR3k0007_CHANT_002-bkkpn121}
@@ -343,6 +353,7 @@ markers:
   - {type: 'tls:seg', offset: 697, content: '', id: KR3k0007_CHANT_002-1a.90}
   - {type: punctuation, offset: 701, content: ，, id: KR3k0007_CHANT_002-bkkpn142}
   - {type: 'tls:seg', offset: 701, content: '', id: KR3k0007_CHANT_002-1a.91}
+  - {type: substitution, offset: 704, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 710, content: 。, id: KR3k0007_CHANT_002-bkkpn143}
   - {type: 'tls:seg', offset: 710, content: '', id: KR3k0007_CHANT_002-1a.92}
   - {type: punctuation, offset: 715, content: ，, id: KR3k0007_CHANT_002-bkkpn144}
@@ -439,6 +450,7 @@ markers:
   - {type: variant, offset: 858, length: 37, content: 欲刊布傳遠與予增校條舉件繫日得數十事二旬而畢猶有漏略當俟來者云賜進士及第東, krp: 生範範生法儁顥祖歡法儁生子粲榮亮道諧子粲生孝謇集州刺史榮亮生綱綱生文宗文傑文宗生徳敏徳基徳敏考功郎中太府少卿生璆珙玢璆宗正卿生元誠元濟元賁元曾元誠生彤澧州刺史元曾吏部郎中珙光禄卿生元}
   - {type: punctuation, offset: 863, content: ，, id: KR3k0007_CHANT_002-bkkpn186}
   - {type: 'tls:seg', offset: 863, content: '', id: KR3k0007_CHANT_002-1a.109}
+  - {type: substitution, offset: 864, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 867, content: ，, id: KR3k0007_CHANT_002-bkkpn187}
   - {type: 'tls:seg', offset: 867, content: '', id: KR3k0007_CHANT_002-1a.110}
   - {type: punctuation, offset: 871, content: ，, id: KR3k0007_CHANT_002-bkkpn188}
@@ -536,4 +548,4 @@ markers:
   - {type: xml-element, offset: 911, content: '', id: KR3k0007_CHANT_002-bkkxmlele4}
   body: []
   back: []
-hash: sha256:f260b5aadf0e817a3d4dec96de3a42ad053704ec7f2e934c9e075638fd60e4ca
+hash: sha256:ef654118201f1a53fa62e26d932fa4ced30200f4c5cf09240e41a48500570583

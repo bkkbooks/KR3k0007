@@ -20,9 +20,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3k0007_001.yaml, hash: 'sha256:55e6b14bb97e79bdfc8839bb5280cbc66d83a5e2063d751aa1cdb82b9d597163'}
-  - {seq: 2, filename: KR3k0007_002.yaml, hash: 'sha256:f31a517b76e5e057dd85d67cee4f56695463c25748e37612a9e1a549eca8614f'}
-  - {seq: 3, filename: KR3k0007_003.yaml, hash: 'sha256:6ee1a1a28414977ba1f68b14ddbb64ab303dc7bb7798d17d92bf646c6a269292'}
+  - {seq: 1, filename: KR3k0007_001.yaml, hash: 'sha256:bdf1cb32e37c09a50d387bec6722a3ecf56ca6eee26a63d0bf9720c82026e5ee'}
+  - {seq: 2, filename: KR3k0007_002.yaml, hash: 'sha256:5893fde43677a47e0b31142f835c107a98078aeb769ef6690c75b875ae841594'}
+  - {seq: 3, filename: KR3k0007_003.yaml, hash: 'sha256:afd9e1bc9ec3abb8092eaf118ac0842d91493cf7f0a886ad4807bdc5ee39142c'}
   - {seq: 4, filename: KR3k0007_004.yaml, hash: 'sha256:f35b76e890242354d5158616eaae92c1c2e5fec2d937b658c89161cc64b065ee'}
   - {seq: 5, filename: KR3k0007_005.yaml, hash: 'sha256:fe55b631c623f8db521574c373926ac2d4294815f04dbe883b19269d2107ddf5'}
   - {seq: 6, filename: KR3k0007_006.yaml, hash: 'sha256:050f77d4d0d4449790ecab09a42379203580ea3433cc5ddf4f7abb255fc8b833'}
@@ -34,9 +34,9 @@ assets:
   - {seq: 12, filename: KR3k0007_012.yaml, hash: 'sha256:ad4bbe0fb2538ea35f68121e52f6120a1f57c10ae76629d999e3ce7b97fa55a7'}
   - {seq: 13, filename: KR3k0007_013.yaml, hash: 'sha256:dde766f6b4c822e35a3f269eadf9d0137980765be9cc446f7fc13f4c0d59c5c8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0007_001.markers.yaml, hash: 'sha256:b33029a92bf5549182add629b03f5d8f51bde664c5419dd0b5a2e1e430bfcbde'}
-  - {seq: 2, role: markers, filename: assets/KR3k0007_002.markers.yaml, hash: 'sha256:ef654118201f1a53fa62e26d932fa4ced30200f4c5cf09240e41a48500570583'}
-  - {seq: 3, role: markers, filename: assets/KR3k0007_003.markers.yaml, hash: 'sha256:d7c832f70f683b7fe8c427d578f20259e274eef7ec1aeaf8df3ecda5af258769'}
+  - {seq: 1, role: markers, filename: assets/KR3k0007_001.markers.yaml, hash: 'sha256:12149a0b0a12d984d667b8951dcfa495573215d2b46825648949cd6816b4a45f'}
+  - {seq: 2, role: markers, filename: assets/KR3k0007_002.markers.yaml, hash: 'sha256:96e4e892c01732927e233d0443939f7ffae3cb47f84fdf368f2539b5322a0140'}
+  - {seq: 3, role: markers, filename: assets/KR3k0007_003.markers.yaml, hash: 'sha256:bc107517eed188913a3306096c642f81719e67741124c69138c4bb3bebf0520a'}
   - {seq: 4, role: markers, filename: assets/KR3k0007_004.markers.yaml, hash: 'sha256:566775e6f7787e8a9cecb21f1dc38250a8507b94471dbd053644016040d807cc'}
   - {seq: 5, role: markers, filename: assets/KR3k0007_005.markers.yaml, hash: 'sha256:8c7b3439efed30cc7f2d62023df1619a5b72e2727ac05813d4a2dbb0a1c0e108'}
   - {seq: 6, role: markers, filename: assets/KR3k0007_006.markers.yaml, hash: 'sha256:cf7f45b291738f69bdb653e1003b037dbab27d4fa9b996bd29ba8ba4d352b9c7'}
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3k0007_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 571
   label: 元和姓纂原序
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 2
     marker_id: KR3k0007_CHANT_002-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 911
   label: 校補元和姓纂輯本序
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 3
     marker_id: KR3k0007_CHANT_003-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 450
   label: 校補元和姓纂輯本後序
@@ -178,7 +178,7 @@ table_of_contents:
   label: 一屋
   type: section
   level: 1
-hash: sha256:3a8839387f19c9e761013d368498598eaef31a26b0543599bc0e199937b7016b
+hash: sha256:68f3ce518df015fb3caa3dfe32c9ae3fcedf437e4f1c35db9c468ef65c8a184e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

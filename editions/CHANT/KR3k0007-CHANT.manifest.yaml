@@ -16,9 +16,9 @@ metadata:
     short: CHANT
 assets:
   parts:
-  - {seq: 1, filename: KR3k0007_001-CHANT.yaml, hash: 'sha256:da2d980cd0d34e26591da2d32ea7bc26b3f147234331d79e9011f7b50f3da8e8'}
-  - {seq: 2, filename: KR3k0007_002-CHANT.yaml, hash: 'sha256:b50af5357744b54b0b2cf79c7e403459632fd451211a57b78df64b34c5c50541'}
-  - {seq: 3, filename: KR3k0007_003-CHANT.yaml, hash: 'sha256:8ea0ba8d00d754326b807adf1f3eab35925f8757d0281cb527470164e3be8b05'}
+  - {seq: 1, filename: KR3k0007_001-CHANT.yaml, hash: 'sha256:ba1d76f328c424a8f4c4a520b091ea93e69cfb30e4ccfd30c2877b8839352aa8'}
+  - {seq: 2, filename: KR3k0007_002-CHANT.yaml, hash: 'sha256:948a55ae7de475306d1cf541395b55e6ddc28bd899466a04ed39bb90599caa08'}
+  - {seq: 3, filename: KR3k0007_003-CHANT.yaml, hash: 'sha256:470032a56aefce9d7e7c57f97d2029976e30e524195eacbe87b790fc5deb5e1c'}
   - {seq: 4, filename: KR3k0007_004-CHANT.yaml, hash: 'sha256:b384f88f8a4b58215bfdd9b2670d943748983dc9969fbb72db08a38c25c6e948'}
   - {seq: 5, filename: KR3k0007_005-CHANT.yaml, hash: 'sha256:db57d4d65aeeb83ffb13b621d4ab4c72dec66e9a9d4bdcea0505df457cc5045c'}
   - {seq: 6, filename: KR3k0007_006-CHANT.yaml, hash: 'sha256:78986944014afc5d814a546cc5380e6f796c2bfaa96fd18001d00ff318c9f89c'}
@@ -30,9 +30,9 @@ assets:
   - {seq: 12, filename: KR3k0007_012-CHANT.yaml, hash: 'sha256:e268b9c126bdbb0c027f931cd197b917cc338d5e719e59f0fa6ca576c3359b0d'}
   - {seq: 13, filename: KR3k0007_013-CHANT.yaml, hash: 'sha256:f023d394637617a711eea0ff3c12683c18c755f882c1ad94a5e722443167fd9f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0007_001-CHANT.markers.yaml, hash: 'sha256:7b3d72666a77cf3b755657bf1600e0d41ee11e87777815e7caa0d3c7901bc62d'}
-  - {seq: 2, role: markers, filename: assets/KR3k0007_002-CHANT.markers.yaml, hash: 'sha256:cb4ce65c804223a9ffacde7fc01021fb0702c5b486db0f5fb3a2fd6cf5628a1f'}
-  - {seq: 3, role: markers, filename: assets/KR3k0007_003-CHANT.markers.yaml, hash: 'sha256:ff12b1d11c1420bade125bc1215328c0c769d9bec13fb27edfebf0bae027b3b8'}
+  - {seq: 1, role: markers, filename: assets/KR3k0007_001-CHANT.markers.yaml, hash: 'sha256:6fce01e8101c744def940bab1e3ddc6f1bfc572ffe1de10a5b1e587caa66db06'}
+  - {seq: 2, role: markers, filename: assets/KR3k0007_002-CHANT.markers.yaml, hash: 'sha256:6bb754b93f464209df0226b5edf2c4262c6f824edb5f03464f7253531166a53b'}
+  - {seq: 3, role: markers, filename: assets/KR3k0007_003-CHANT.markers.yaml, hash: 'sha256:636e1e0cbec7df19f350d1076e5099acdf5cd7385d2b301930e5547c63094568'}
   - {seq: 4, role: markers, filename: assets/KR3k0007_004-CHANT.markers.yaml, hash: 'sha256:1b916bab4382c230ddf9e766c6ffd2101bd6a9e6cf5b76957af08a049b0ded86'}
   - {seq: 5, role: markers, filename: assets/KR3k0007_005-CHANT.markers.yaml, hash: 'sha256:f10a73f3fa3c683734381bab8d32bc15d19ce4a37441fa9923b6ca69b10e6d74'}
   - {seq: 6, role: markers, filename: assets/KR3k0007_006-CHANT.markers.yaml, hash: 'sha256:56a0f1e76e448e775fd89ba17cb84de007f3950f253a1c09897bdc502184046b'}
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3k0007_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 571
   label: 元和姓纂原序
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 2
     marker_id: KR3k0007_CHANT_002-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 911
   label: 校補元和姓纂輯本序
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 3
     marker_id: KR3k0007_CHANT_003-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 450
   label: 校補元和姓纂輯本後序
@@ -174,4 +174,4 @@ table_of_contents:
   label: 一屋
   type: section
   level: 1
-hash: sha256:8fe497c1d00ae50dd339910874e1431e244055447d02cca3d752a08a76e113c6
+hash: sha256:a08778fcd8ef0e0aed933c36a52b2536da1bdb7b1e2e028d381db07675b2b6ef
